@@ -1,0 +1,15 @@
+
+# Data (contains PII/PHII)
+Data/
+*.csv
+
+# Generated Reports
+*.html
+*.pdf
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
