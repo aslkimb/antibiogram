@@ -7,6 +7,11 @@ Data/
 *.html
 *.pdf
 *.png
+temp_*
+
+# Images
+cropped-*.jpg
+uploaded_media_*
 
 # Python
 __pycache__/
