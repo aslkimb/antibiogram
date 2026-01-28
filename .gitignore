@@ -4,8 +4,7 @@ Data/
 *.csv
 
 # Generated Reports
-*.html
-*.pdf
+# Reports allowed by user request
 *.png
 temp_*
 
