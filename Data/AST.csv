@@ -1,0 +1,1818 @@
+Antimicrobial,MIC,Interpretation,Notes,Isolates,Specimen,Staph CLSI Tier,Drug on Market,Enterobact CLSI Tier
+Fluconazole,<=0.5,Susceptible,,224975030-400,224975030,,true,
+Ampicillin,>=32,Resistant,,12594005-398,12594005,,true,1
+Fluconazole,<=0.5,Susceptible,,242756013-397,242756013,,true,
+Fluconazole,>=64,Resistant,,353993031-387,353993031,,true,
+Voriconazole,1,Susceptible,,353993031-387,353993031,,false,
+Caspofungin,<=0.12,Susceptible,,353993031-387,353993031,,false,
+Micafungin,<=0.06,Susceptible,,353993031-387,353993031,,false,
+Flucytosine,<=1,Susceptible,,353993031-387,353993031,,false,
+Fluconazole,<=0.5,Susceptible,,11-386,11,,true,
+Voriconazole,<=0.12,Susceptible,,11-386,11,,false,
+Caspofungin,<=0.12,Susceptible,,11-386,11,,false,
+Micafungin,<=0.06,Susceptible,,11-386,11,,false,
+Flucytosine,<=1,Susceptible,,11-386,11,,false,
+Ampicillin,>=32,Resistant,,11-385,11,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,11-385,11,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,11-385,11,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,11-385,11,,true,1
+Cefazolin,<=4,Susceptible,,11-385,11,,true,1
+Ceftriaxone,<=1,Susceptible,,11-385,11,,true,1
+Gentamicin,<=1,Susceptible,,11-385,11,4,true,1
+Ciprofloxacin,<=0.24,Susceptible,,11-385,11,4,true,1
+Trimethoprim/Sulfamethoxazole,>320,Resistant,,11-385,11,1,false,1
+Ampicillin,>=32,Resistant,,243393007-45,243393007,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,243393007-45,243393007,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,243393007-45,243393007,,true,1
+Piperacillin/Sulbactam,<=4,Susceptible,,243393007-45,243393007,,false,
+Cefazolin,<=4,Susceptible,,243393007-45,243393007,,true,1
+Ceftriaxone,<=1,Susceptible,,243393007-45,243393007,,true,1
+Gentamicin,<=1,Susceptible,,243393007-45,243393007,4,true,1
+Ciprofloxacin,<=0.24,Susceptible,,243393007-45,243393007,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,243393007-45,243393007,1,false,1
+Fluconazole,<=0.5,Susceptible,,8-383,8,,true,
+Voriconazole,<=0.12,Susceptible,,8-383,8,,false,
+Caspofungin,<=0.12,Susceptible,,8-383,8,,false,
+Micafungin,<=0.06,Susceptible,,8-383,8,,false,
+Flucytosine,<=1,Susceptible,,8-383,8,,false,
+Ampicillin,>=32,Resistant,,10-378,10,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,10-378,10,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,10-378,10,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,10-378,10,,true,1
+Cefazolin,>=64,Resistant,,10-378,10,,true,1
+Cefotaxime,>=64,Resistant,,10-378,10,,true,1
+Ceftriaxone,>=64,Resistant,,10-378,10,,true,1
+Gentamicin,<=1,Susceptible,,10-378,10,4,true,1
+Ciprofloxacin,>=4,Resistant,,10-378,10,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,10-378,10,1,false,1
+Nitrofurantoin,<=16,Susceptible,,10-378,10,1,true,1
+Piperacillin/Tazobactam,16,Susceptible,,210901010-381,210901010,,true,1
+Ampicillin,>=32,Resistant,,260342003-377,260342003,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,253735006-374,253735006,,true,1
+Fluconazole,2,Susceptible,,230381004-372,230381004,,true,
+Ampicillin,>=32,Resistant,,1187019-371,1187019,,true,1
+Ampicillin,>=32,Resistant,,,,,true,1
+Ampicillin,>=32,Resistant,,202671011-364,202671011,,true,1
+Oxacillin,>=4,Resistant,,202671011-363,202671011,1,false,
+Voriconazole,0.5,Susceptible,,202671010-362,202671010,,false,
+Ampicillin,>=32,Resistant,,260022002-361,260022002,,true,1
+Ampicillin,>=32,Resistant,,191384010-358,191384010,,true,1
+Ampicillin,>=32,Resistant,,180149122-357,180149122,,true,1
+Penicillin,>=5,Resistant,,256605033-353,256605033,2,false,
+Gentamicin,<=0.5,Susceptible,,256605033-353,256605033,4,true,1
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,256605033-353,256605033,1,false,1
+Moxifloxacin,1,Susceptible,,256605033-353,256605033,4,true,
+Vancomycin,<=0.5,Susceptible,,256605033-353,256605033,1,true,
+Linezolid,2,Susceptible,,256605033-353,256605033,2,true,
+Tobramycin,<=1,Susceptible,,256605033-353,256605033,,true,2
+,,,,,,,,
+Ampicillin,>=32,Resistant,,253993020-352,253993020,,true,1
+Ampicillin,>=32,Resistant,,256636002-351,256636002,,true,1
+Ampicillin/Sulbactam,<=2,Susceptible,,230240005-350,230240005,,true,1
+Oxacillin,>=4,Resistant,,257028001-349,257028001,1,false,
+Ampicillin,>=32,Resistant,,181250030-347,181250030,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,181250030-347,181250030,,true,1
+Ampicillin/Sulbactam,<=2,Resistant,,181250030-347,181250030,,true,1
+Piperacillin/Tazobactam,64,Intermediate,,181250030-347,181250030,,true,1
+Cefazolin,>=64,Resistant,,181250030-347,181250030,,true,1
+Cefotaxime,8,Susceptible,,181250030-347,181250030,,true,1
+Gentamicin,<=1,Susceptible,,181250030-347,181250030,4,true,1
+Ciprofloxacin,0.5,Resistant,,181250030-347,181250030,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,181250030-347,181250030,1,false,1
+Ceftriaxone,16,Intermediate,,181250030-347,181250030,,true,1
+Amikacin,4,Susceptible,,,,,true,2
+Nitrofurantoin,>=512,Resistant,,181250030-347,181250030,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,181250030-347,181250030,1,false,1
+Amikacin,4,Susceptible,,181250030-347,181250030,,true,2
+Voriconazole,0.5,Susceptible,,251108015-344,251108015,,false,
+Fluconazole,<=0.5,Susceptible,,243989012-341,243989012,,true,
+Oxacillin,>=4,Resistant,,242991010-339,242991010,1,false,
+Amoxicillin/Clavulanic acid,>=32,Resistant,,243003002-337,243003002,,true,1
+Ampicillin,4,Susceptible,,256304004-281,256304004,,true,1
+,,,,,,,,
+Azithromycin,<=0.25,Susceptible,,245906006-331,245906006,1,true,
+Oxacillin,0.5,Susceptible,,,,1,false,
+Linezolid,2,Susceptible,,244475004-325,244475004,2,true,
+Amoxicillin/Clavulanic acid,4,Resistant,,256790002-324,256790002,,true,1
+Fluconazole,<=0.5,Susceptible,,255906003-320,255906003,,true,
+Oxacillin,>=4,Resistant,,202671001-313,202671001,1,false,
+,,,,,,,,
+Linezolid,2,Susceptible,,256632001-310,256632001,2,true,
+Fluconazole,1,Susceptible,,256677001-309,256677001,,true,
+Ampicillin,>=32,,,819003-306,819003,,true,1
+Amoxicillin/Clavulanic acid,>=32,,,819003-306,819003,,true,1
+Ampicillin/Sulbactam,>=32,,,819003-306,819003,,true,1
+Piperacillin/Tazobactam,>=128,,,819003-306,819003,,true,1
+Cefazolin,>=64,,,819003-306,819003,,true,1
+Cefuroxime,>=64,,,819003-306,819003,,true,2
+Cefuroxime Axetil,>=64,,,819003-306,819003,,true,
+Cefoxitin,>=64,,,819003-306,819003,1,false,2
+Cefotaxime,>=64,,,819003-306,819003,,true,1
+Ceftazidime,>=64,,,819003-306,819003,,false,4
+Ceftriaxone,>=64,,,819003-306,819003,,true,1
+Fluconazole,1,Susceptible,,256576003-302,256576003,,true,
+Fluconazole,1,Susceptible,,256466002-294,256466002,,true,
+Erythromycin,>=8,Resistant,,256318004-293,256318004,1,true,
+Linezolid,2,Susceptible,,256506002-292,256506002,2,true,
+Fluconazole,1,Susceptible,,256496001-290,256496001,,true,
+Ampicillin,>=32,Resistant,,19935005-287,19935005,,true,1
+Voriconazole,0.5,Susceptible,,256399002-284,256399002,,false,
+Fluconazole,16,Intermediate,,255508001-283,255508001,,true,
+Oxacillin,>=4,Resistant,,255508001-282,255508001,1,false,
+Fluconazole,16,Intermediate,,256310003-279,256310003,,true,
+Fluconazole,16,Intermediate,,256310002-278,256310002,,true,
+Voriconazole,0.5,Susceptible,,240489005-277,240489005,,false,
+Fluconazole,1,Susceptible,,256234001-273,256234001,,true,
+Fluconazole,1,Susceptible,,251108009-264,251108009,,true,
+Ampicillin,4,Susceptible,,,,,true,1
+Ampicillin,4,Susceptible,,3096010-258,3096010,,true,1
+Fluconazole,1,Susceptible,,202076045-255,202076045,,true,
+Ampicillin,>=32,Resistant,,194395031-247,194395031,,true,1
+Ampicillin,>=32,Resistant,,255162007-246,255162007,,true,1
+Ampicillin,>=32,Resistant,,236144029-242,236144029,,true,1
+Fluconazole,1,Susceptible,,223439017-243,223439017,,true,
+Ampicillin,>=32,Resistant,,255336002-238,255336002,,true,1
+Ampicillin,>=32,Resistant,,245214005-234,245214005,,true,1
+Fluconazole,1,Susceptible,,215643005-231,215643005,,true,
+Ampicillin,>=32,Resistant,,245745017-229,245745017,,true,1
+,,,,,,,,
+Fluconazole,1,Susceptible,,214290029-225,214290029,,true,
+,,,,,,,,
+Ampicillin,>=32,Resistant,,225730007-222,225730007,,true,1
+Fluconazole,<=0.5,Susceptible,,244998008-220,244998008,,true,
+Ampicillin,>=32,Resistant,,255178001-214,255178001,,true,1
+Ampicillin,>=32,Resistant,,244998007-213,244998007,,true,1
+Ampicillin,>=32,Resistant,,11333001-212,11333001,,true,1
+Ampicillin,>=32,Resistant,,191076096-211,191076096,,true,1
+Fluconazole,<=0.5,Susceptible,,190622055-210,190622055,,true,
+Ampicillin,>=32,Resistant,,242650008-208,242650008,,true,1
+Ampicillin,>=32,Resistant,,206473014-207,206473014,,true,1
+,,,,,,,,
+Ampicillin,>=32,Resistant,,232662042-200,232662042,,true,1
+Amoxicillin/Clavulanic acid,8,Susceptible,,232662042-200,232662042,,true,1
+Ampicillin/Sulbactam,8,Susceptible,,232662042-200,232662042,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,232662042-200,232662042,,true,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,241489002-198,241489002,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,250868003-197,250868003,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,250868002-196,250868002,,true,1
+Oxacillin,>=4,Resistant,,240727007-194,240727007,1,false,
+Oxacillin,>=4,Resistant,,253772001-193,253772001,1,false,
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,6707039-190,6707039,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,11602016-188,11602016,,true,1
+Oxacillin,>=4,Resistant,,207154003-187,207154003,1,false,
+Azithromycin,>=8,Resistant,,207154003-187,207154003,1,true,
+Clarithromycin,>=8,Resistant,,207154003-187,207154003,1,true,
+Erythromycin,>=8,Resistant,,207154003-187,207154003,1,true,
+Clindamycin,<=0.25,Susceptible,,207154003-187,207154003,,true,
+Teicoplanin,=0.5,Susceptible,,,,,false,
+Vancomycin,1,Susceptible,,207154003-187,207154003,1,true,
+Doxycycline,1,Susceptible,,207154003-187,207154003,1,true,
+Minocycline,1,Susceptible,,207154003-187,207154003,1,false,
+Tetracycline,1,Susceptible,,207154003-187,207154003,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",207154003-187,207154003,,false,
+Inducible Clindamycin Resistance,POS,,"Presence of Resistance to macrolides, lincosamides, and type B streptogramin",207154003-187,207154003,,false,
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,207154003-187,207154003,1,false,1
+Cefoxitin,>=4,,,,,1,false,2
+Cefoxitin,,,,,,1,false,2
+Ampicillin,>=32,Resistant,,,,,true,1
+Ampicillin,>=32,Resistant,,246507005-182,246507005,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,246507005-182,246507005,,true,1
+Cefazolin,<=4,Susceptible,,246507005-182,246507005,,true,1
+Cefotaxime,4,Susceptible,,246507005-182,246507005,,true,1
+Ampicillin,,,,,,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,246507005-182,246507005,,true,1
+Gentamicin,8,Intermediate,,246507005-182,246507005,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,246507005-182,246507005,4,true,1
+Levofloxacin,,,,,,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,246507005-182,246507005,1,false,1
+Cefuroxime,4,Susceptible,,,,,true,2
+Cefuroxime Axetil,4,Susceptible,,,,,true,
+Cefoxitin,<=4,Susceptible,,,,1,false,2
+Cefotaxime,<=1,Susceptible,,,,,,
+Amikacin,=2,Susceptible,,,,,true,2
+Ceftazidime,<=1,Susceptible,,,,,false,4
+Ceftriaxone,<=1,Susceptible,,,,,true,1
+Aztreonam,<=1,Susceptible,,,,,false,4
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Nitrofurantoin,32,Susceptible,,246507005-182,246507005,1,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,246507005-182,246507005,,true,1
+Ceftriaxone,<=1,Susceptible,,246507005-182,246507005,,true,1
+Ciprofloxacin,,,,,,4,true,1
+Erythromycin,>=8,Resistant,,197112041-181,197112041,1,true,
+Clindamycin,>=8,Resistant,,197112041-181,197112041,,true,
+Cefoxitin Screen,POS,,Presence of methicillin resistance (MRSA like behavior),197112041-181,197112041,,false,
+Minocycline,<=1,Susceptible,,197112041-181,197112041,1,false,
+Oxacillin,>=4,Resistant,,197112041-181,197112041,1,false,
+Doxycycline,<=1,Susceptible,,197112041-181,197112041,1,true,
+Tetracycline,<=1,Susceptible,,197112041-181,197112041,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,197112041-181,197112041,1,false,1
+Vancomycin,>=32,Resistant,,197112041-181,197112041,1,true,
+Inducible Clindamycin Resistance,NEG,,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",197112041-181,197112041,,false,
+Tobramycin,2,Susceptible,,197112041-181,197112041,,true,2
+Tigecycline,<=0.12,Susceptible,,197112041-181,197112041,,false,
+Levofloxacin,4,Intermediate,,197112041-181,197112041,4,true,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Ampicillin,>=32,Resistant,,Deleted Row,,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,Deleted Row,,,true,1
+Amoxicillin/Clavulanic acid,16,Resistant,,6707032-179,6707032,,true,1
+Erythromycin,>=8,Resistant,,254414001-172,254414001,1,true,
+Ampicillin,>=32,Resistant,,,,,true,1
+Fluconazole,2,Susceptible,,191527009-170,191527009,,true,
+Ampicillin,>=32,Resistant,,206987024-167,206987024,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,206987024-167,206987024,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,206987024-167,206987024,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,206987024-167,206987024,,true,1
+Cefazolin,>=64,Resistant,,206987024-167,206987024,,true,1
+Cefuroxime,>=64,Resistant,,206987024-167,206987024,,true,2
+Cefoxitin,>=64,Resistant,,206987024-167,206987024,1,false,2
+Meropenem,<=0.25,Susceptible,,206987024-167,206987024,,true,2
+Amikacin,8,Susceptible,,206987024-167,206987024,,true,2
+Ciprofloxacin,>=4,Resistant,,206987024-167,206987024,4,true,1
+Nitrofurantoin,64,Intermediate,,206987024-167,206987024,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,206987024-167,206987024,1,false,1
+Ampicillin,>=32,Resistant,,253806001-164,253806001,,true,1
+Ampicillin,>=32,Resistant,,254321002-162,254321002,,true,1
+Fluconazole,20,Susceptible,,6707026-161,6707026,,true,
+Ampicillin,16,Resistant,,6707026-160,6707026,,true,1
+Fluconazole,16,Intermediate,,213271011-159,213271011,,true,
+Ampicillin,16,Resistant,,254197005-158,254197005,,true,1
+Ampicillin,>=32,Resistant,,220869007-157,220869007,,true,1
+Ampicillin,16,Resistant,,,,,true,1
+Ampicillin,16,Resistant,,253930001-154,253930001,,true,1
+Ampicillin,>=32,Resistant,,215609001-153,215609001,,true,1
+Ampicillin,>=32,Resistant,,224536026-152,224536026,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,224536026-152,224536026,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,224536026-152,224536026,,true,1
+Piperacillin/Tazobactam,16,Susceptible,,224536026-152,224536026,,true,1
+Ampicillin,>=32,Resistant,,231259004-151,231259004,,true,1
+Ampicillin,>=32,Resistant,,253822002-143,253822002,,true,1
+Fluconazole,32,Intermediate,,252189004-142,252189004,,true,
+Fluconazole,20,Susceptible,,250580002-140,250580002,,true,
+Voriconazole,>=8,Resistant,,250580002-140,250580002,,false,
+Caspofungin,>=8,Resistant,,250580002-140,250580002,,false,
+Micafungin,>=8,Resistant,,250580002-140,250580002,,false,
+Flucytosine,>=64,Resistant,,250580002-140,250580002,,false,
+Fluconazole,<=0.5,Susceptible,,23399301001-138,23399301001,,true,
+Voriconazole,<=0.12,Susceptible,,23399301001-138,23399301001,,false,
+Caspofungin,<=0.12,Susceptible,,23399301001-138,23399301001,,false,
+Micafungin,<=0.06,Susceptible,,23399301001-138,23399301001,,false,
+Flucytosine,<=1,Susceptible,,23399301001-138,23399301001,,false,
+Fluconazole,16,Intermediate,,253512004-137,253512004,,true,
+Voriconazole,0.25,Susceptible,,253512004-137,253512004,,false,
+Caspofungin,<=0.12,Susceptible,,253512004-137,253512004,,false,
+Micafungin,<=0.06,Susceptible,,253512004-137,253512004,,false,
+Flucytosine,<=1,Susceptible,,253512004-137,253512004,,false,
+Ampicillin,>=32,Resistant,,253822001-128,253822001,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,253822001-128,253822001,,true,1
+Amoxicillin/Clavulanic acid,=32,Resistant,,253822001-128,253822001,,true,1
+Cefazolin,>=64,Resistant,,253822001-128,253822001,,true,1
+Cefuroxime,>=64,Resistant,,253822001-128,253822001,,true,2
+Cefotaxime,>=64,Resistant,,253822001-128,253822001,,true,1
+Meropenem,<=0.25,Susceptible,,253822001-128,253822001,,true,2
+Amikacin,8,Susceptible,,253822001-128,253822001,,true,2
+Nitrofurantoin,<=16,Susceptible,,253822001-128,253822001,1,true,1
+Trimethoprim/Sulfamethoxazole,=320,Resistant,,253822001-128,253822001,1,false,1
+Erythromycin,<=0.25,Susceptible,,235373026-119,235373026,1,true,
+Fluconazole,32,Intermediate,,224471010-118,224471010,,true,
+Voriconazole,0.5,Susceptible,,224471010-118,224471010,,false,
+Caspofungin,<=0.12,Susceptible,,224471010-118,224471010,,false,
+Micafungin,<=0.06,Susceptible,,224471010-118,224471010,,false,
+Flucytosine,<=1,Susceptible,,224471010-118,224471010,,false,
+Erythromycin,0.5,Resistant,,3246001-116,3246001,1,true,
+Ampicillin,>=32,Resistant,,227021003-115,227021003,,true,1
+Ampicillin/Sulbactam,<=2,Susceptible,,1877014-113,1877014,,true,1
+Cefepime,2,Susceptible,,1877014-113,1877014,,false,2
+Gentamicin,<=1,Susceptible,,1877014-113,1877014,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,1877014-113,1877014,4,true,1
+Trimethoprim/Sulfamethoxazole,160,Resistant,,1877014-113,1877014,1,false,1
+Piperacillin/Tazobactam,<=4,Susceptible,,1877014-113,1877014,,true,1
+Ampicillin,>=32,Resistant,,6412025-112,6412025,,true,1
+Erythromycin,<=0.25,Susceptible,,205922015-110,205922015,1,true,
+Erythromycin,>=8,Resistant,,221983006-107,221983006,1,true,
+Fluconazole,16,Intermediate,,247019008-108,247019008,,true,
+Voriconazole,<=0.12,Susceptible,,247019008-108,247019008,,false,
+Caspofungin,<=0.12,Susceptible,,247019008-108,247019008,,false,
+Micafungin,0.12,Susceptible,,247019008-108,247019008,,false,
+Flucytosine,16,Intermediate,,247019008-108,247019008,,false,
+Fluconazole,>=64,Resistant,,253512002-106,253512002,,true,
+Voriconazole,4,Susceptible,,253512002-106,253512002,,false,
+Micafungin,>=8,Resistant,,253512002-106,253512002,,false,
+Caspofungin,6,Susceptible,,253512002-106,253512002,,false,
+Flucytosine,>=64,Resistant,,253512002-106,253512002,,false,
+Fluconazole,2,Susceptible,,225602012-103,225602012,,true,
+Voriconazole,1,Susceptible,,225602012-103,225602012,,false,
+Caspofungin,<=0.12,Susceptible,,225602012-103,225602012,,false,
+Micafungin,<=0.06,Susceptible,,225602012-103,225602012,,false,
+Flucytosine,<=1,Susceptible,,225602012-103,225602012,,false,
+Erythromycin,>=8,Resistant,,252626001-102,252626001,1,true,
+Fluconazole,16,Intermediate,,252415005-99,252415005,,true,
+Voriconazole,0.25,Susceptible,,252415005-99,252415005,,false,
+Caspofungin,<=0.12,Susceptible,,252415005-99,252415005,,false,
+Micafungin,<=0.06,Susceptible,,252415005-99,252415005,,false,
+Flucytosine,<=1,Susceptible,,252415005-99,252415005,,false,
+Erythromycin,>=8,Resistant,,241264008-98,241264008,1,true,
+Ampicillin,<=2,Susceptible,,244696002-97,244696002,,true,1
+Erythromycin,>=8,Resistant,,203269033-94,203269033,1,true,
+Ampicillin,>=32,Resistant,,1584003-92,1584003,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,1584003-92,1584003,,true,1
+Ampicillin,>=32,Resistant,,232678018-91,232678018,,true,1
+Fluconazole,2,Susceptible,,191527007-90,191527007,,true,
+Voriconazole,<=0.12,Susceptible,,191527007-90,191527007,,false,
+Caspofungin,<=0.12,Susceptible,,191527007-90,191527007,,false,
+Flucytosine,<=1,Susceptible,,191527007-90,191527007,,false,
+Erythromycin,>=8,Resistant,,23260013-85,23260013,1,true,
+Erythromycin,>=8,Resistant,,241162006-82,241162006,1,true,
+Ampicillin,>=32,Resistant,,253246001-81,253246001,,true,1
+Erythromycin,>=8,Resistant,,246507003-77,246507003,1,true,
+Erythromycin,>=8,Resistant,,,,1,true,
+Erythromycin,>=8,Resistant,,218096011-78,218096011,1,true,
+Erythromycin,>=8,Resistant,,251646001-76,251646001,1,true,
+Ampicillin,>=32,Resistant,,237253005-75,237253005,,true,1
+Ampicillin,>=32,Resistant,,180232018-74,180232018,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,237253005-75,237253005,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,237253005-75,237253005,,true,1
+Cefazolin,>=64,Resistant,,237253005-75,237253005,,true,1
+Cefoxitin,<=4,Susceptible,,237253005-75,237253005,1,false,2
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Amikacin,8,Susceptible,,,,,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,237253005-75,237253005,1,false,1
+Ampicillin/Sulbactam,16,Intermediate,,237253005-75,237253005,,true,1
+Gentamicin,>=16,Resistant,,237253005-75,237253005,4,true,1
+Ciprofloxacin,>=4,Resistant,,237253005-75,237253005,4,true,1
+Cefotaxime,8,Resistant,,237253005-75,237253005,,true,1
+Ceftriaxone,16,Resistant,,237253005-75,237253005,,true,1
+Nitrofurantoin,<=16,Susceptible,,237253005-75,237253005,1,true,1
+Cefoxitin,<=4,Susceptible,,237253005-75,237253005,1,false,2
+Ampicillin/Sulbactam,4,Susceptible,,180232018-74,180232018,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,180232018-74,180232018,,true,1
+Cefazolin,>=64,Resistant,,180232018-74,180232018,,true,1
+Cefotaxime,8,Resistant,,180232018-74,180232018,,true,1
+Ceftriaxone,16,Resistant,,180232018-74,180232018,,true,1
+Gentamicin,<=1,Susceptible,,180232018-74,180232018,4,true,1
+Ciprofloxacin,1,Susceptible,,180232018-74,180232018,4,true,1
+Nitrofurantoin,<=16,Susceptible,,180232018-74,180232018,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,180232018-74,180232018,1,false,1
+Erythromycin,2,Susceptible,,253178002-72,253178002,1,true,
+Ampicillin,4,Susceptible,,214325005-68,214325005,,true,1
+Ampicillin,>=32,Resistant,,,,,true,1
+Ampicillin,>=32,Resistant,,244768004-60,244768004,,true,1
+Voriconazole,0.5,Susceptible,,212171007-59,212171007,,false,
+Micafungin,<=0.06,Susceptible,,212171007-59,212171007,,false,
+Flucytosine,<=1,Susceptible,,212171007-59,212171007,,false,
+Fluconazole,1,Susceptible,,212171007-59,212171007,,true,
+Erythromycin,>=8,Resistant,,21679008-58,21679008,1,true,
+Erythromycin,>=8,Resistant,,210299043-57,210299043,1,true,
+Erythromycin,>=8,Resistant,,252799001-55,252799001,1,true,
+Ampicillin,>=32,Resistant,,205891003-48,205891003,,true,1
+Fluconazole,<=0.5,Susceptible,,193059023-44,193059023,,true,
+Voriconazole,<=0.12,Susceptible,,193059023-44,193059023,,false,
+Caspofungin,<=0.12,Susceptible,,193059023-44,193059023,,false,
+Micafungin,<=0.06,Susceptible,,193059023-44,193059023,,false,
+Flucytosine,<=1,Susceptible,,193059023-44,193059023,,false,
+Ampicillin,>=32,Resistant,,245745057-41,245745057,,true,1
+Ampicillin,>=32,Resistant,,212169039-40,212169039,,true,1
+Ampicillin,>=32,Resistant,,252670006-38,252670006,,true,1
+Fluconazole,<=0.5,Susceptible,,241711008-37,241711008,,true,
+Voriconazole,<=0.12,Susceptible,,241711008-37,241711008,,false,
+Caspofungin,<=0.12,Susceptible,,241711008-37,241711008,,false,
+Micafungin,<=0.06,Susceptible,,241711008-37,241711008,,false,
+Flucytosine,<=1,Susceptible,,241711008-37,241711008,,false,
+Erythromycin,<=0.25,Susceptible,,252680002-36,252680002,1,true,
+Erythromycin,>=8,Resistant,,245015006-35,245015006,1,true,
+Erythromycin,>=8,Resistant,,245015005-34,245015005,1,true,
+Ampicillin,>=32,Resistant,,220347111-33,220347111,,true,1
+Erythromycin,>=8,Resistant,,214886004-32,214886004,1,true,
+Erythromycin,<=0.25,Susceptible,,214886003-31,214886003,1,true,
+Erythromycin,>=8,Resistant,,252059003-30,252059003,1,true,
+Ampicillin,>=32,Resistant,,25047003-28,25047003,,true,1
+Fluconazole,2,Susceptible,,24349007-27,24349007,,true,
+Voriconazole,<=0.12,Susceptible,,24349007-27,24349007,,false,
+Caspofungin,<=0.12,Susceptible,,24349007-27,24349007,,false,
+Flucytosine,<=1,Susceptible,,24349007-27,24349007,,false,
+Erythromycin,>=8,Resistant,,11234-25,11234,1,true,
+Clindamycin,<=0.25,Resistant,,11234-25,11234,,true,
+Fluconazole,<=0.5,Susceptible,,204225012-17,204225012,,true,
+Voriconazole,<= 0.12,Susceptible,,204225012-17,204225012,,false,
+Caspofungin,<=0.12,Susceptible,,204225012-17,204225012,,false,
+Micafungin,<=0.06,Susceptible,,204225012-17,204225012,,false,
+Flucytosine,<=1,Susceptible,,204225012-17,204225012,,false,
+Ampicillin,>=32,Resistant,,195990012-21,195990012,,true,1
+Ampicillin,>=32,Resistant,,206794025-11,206794025,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,206794025-11,206794025,,true,1
+Ampicillin,8,Susceptible,,220023012-10,220023012,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,220023012-10,220023012,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,220023012-10,220023012,,true,1
+Cefazolin,<=4,Susceptible,,220023012-10,220023012,,true,1
+Cefotaxime,<=1,,,,,,true,1
+Cefotaxime,<=1,Susceptible,,220023012-10,220023012,,true,1
+Ceftriaxone,<=1,Susceptible,,220023012-10,220023012,,true,1
+Gentamicin,<=1,Susceptible,,220023012-10,220023012,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,220023012-10,220023012,4,true,1
+Nitrofurantoin,<=16,Susceptible,,220023012-10,220023012,1,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,220023012-10,220023012,1,false,1
+Ampicillin/Sulbactam,4,Susceptible,,220023012-10,220023012,,true,1
+Linezolid,2,Susceptible,,25158006-6,25158006,2,true,
+Vancomycin,1,Susceptible,,25158006-6,25158006,1,true,
+Erythromycin,>=8,Resistant,,25158006-6,25158006,1,true,
+Tigecycline,<=0.12,Susceptible,,25158006-6,25158006,,false,
+Teicoplanin,<=0.5,Susceptible,,25158006-6,25158006,,false,
+Ampicillin,>=32,Resistant,,252132001-5,252132001,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,252132001-5,252132001,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,252132001-5,252132001,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,252132001-5,252132001,,true,1
+Cefazolin,>=64,Resistant,,252132001-5,252132001,,true,1
+Cefuroxime,>=64,Resistant,,252132001-5,252132001,,true,2
+Cefotaxime,>=64,Resistant,,252132001-5,252132001,,true,1
+Gentamicin,>=16,Resistant,,252132001-5,252132001,4,true,1
+Ciprofloxacin,>=4,Resistant,,252132001-5,252132001,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,252132001-5,252132001,1,false,1
+Cefoxitin,8,Susceptible,,252132001-5,252132001,1,false,2
+Meropenem,<=0.25,Susceptible,,252132001-5,252132001,,true,2
+Amikacin,8,Susceptible,,252132001-5,252132001,,true,2
+Erythromycin,>=8,Resistant,,2767008-4,2767008,1,true,
+Clindamycin,<=0.25,Resistant,,2767008-4,2767008,,true,
+Vancomycin,1,Susceptible,,2767008-4,2767008,1,true,
+Tetracycline,1,Susceptible,,2767008-4,2767008,1,true,2
+Trimethoprim/Sulfamethoxazole,80,Resistant,,2767008-4,2767008,1,false,1
+Linezolid,2,Susceptible,,2767008-4,2767008,2,true,
+Rifampicin,3,Susceptible,,2767008-4,2767008,3,true,
+Cefoxitin Screen,Negative,,absence of methicillin resistance (MRSA like behavior),2767008-4,2767008,,false,
+Inducible Clindamycin Resistance,Positive,,"Resistance to macrolides, lincosamides, and type B streptogramin.",2767008-4,2767008,,false,
+Amoxicillin/Clavulanic acid,16,Intermediate,,206794025-11,206794025,,true,1
+Piperacillin/Tazobactam,16,Susceptible,,206794025-11,206794025,,true,1
+Cefazolin,>=64,Resistant,,206794025-11,206794025,,true,1
+Cefotaxime,32,Resistant,,206794025-11,206794025,,true,1
+Ceftriaxone,>=64,Resistant,,206794025-11,206794025,,true,1
+Gentamicin,<=1,Susceptible,,206794025-11,206794025,4,true,1
+Ciprofloxacin,>=4,Resistant,,206794025-11,206794025,4,true,1
+Nitrofurantoin,<=16,Susceptible,,206794025-11,206794025,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,206794025-11,206794025,1,false,1
+Ampicillin/Sulbactam,16,Intermediate,,195990012-21,195990012,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,195990012-21,195990012,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,195990012-21,195990012,,true,1
+Cefazolin,>=64,Resistant,,195990012-21,195990012,,true,1
+Cefotaxime,>=64,Resistant,,195990012-21,195990012,,true,1
+Ceftriaxone,>=64,Resistant,,195990012-21,195990012,,true,1
+Gentamicin,<=1,Susceptible,,195990012-21,195990012,4,true,1
+Ciprofloxacin,>=4,Resistant,,195990012-21,195990012,4,true,1
+Nitrofurantoin,<=16,Susceptible,,195990012-21,195990012,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,195990012-21,195990012,1,false,1
+Vancomycin,2,Susceptible,,11234-25,11234,1,true,
+Tetracycline,<=1,Susceptible,,11234-25,11234,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,11234-25,11234,1,false,1
+Linezolid,1,Susceptible,,11234-25,11234,2,true,
+Rifampicin,<=0.5,Susceptible,,11234-25,11234,3,true,
+Cefoxitin Screen,Negative,,absence of methicillin resistance (MRSA like behavior),11234-25,11234,,false,
+Inducible Clindamycin Resistance,Positive,,"Resistance to macrolides, lincosamides, and type B streptogramin.",11234-25,11234,,false,
+Erythromycin,>=8,Resistant,,217547003-26,217547003,1,true,
+Clindamycin,<=0.25,Resistant,,217547003-26,217547003,,true,
+Vancomycin,1,Susceptible,,217547003-26,217547003,1,true,
+Tetracycline,>=16,Resistant,,217547003-26,217547003,1,true,2
+Trimethoprim/Sulfamethoxazole,160,Resistant,,217547003-26,217547003,1,false,1
+Linezolid,2,Susceptible,,217547003-26,217547003,2,true,
+Rifampicin,<=0.5,Susceptible,,217547003-26,217547003,3,true,
+Cefoxitin Screen,Positive,,Presence of methicillin resistance (MRSA like behavior),217547003-26,217547003,,false,
+Inducible Clindamycin Resistance,Positive,,"Resistance to macrolides, lincosamides, and type B streptogramin.",217547003-26,217547003,,false,
+Ampicillin/Sulbactam,16,Intermediate,,25047003-28,25047003,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,25047003-28,25047003,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,25047003-28,25047003,,true,1
+Cefazolin,>=64,Resistant,,25047003-28,25047003,,true,1
+Cefotaxime,>=64,Resistant,,25047003-28,25047003,,true,1
+Ceftriaxone,>=64,Resistant,,25047003-28,25047003,,true,1
+Gentamicin,>=16,Resistant,,25047003-28,25047003,4,true,1
+Ciprofloxacin,>=4,Resistant,,25047003-28,25047003,4,true,1
+Nitrofurantoin,<=16,Susceptible,,25047003-28,25047003,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,25047003-28,25047003,1,false,1
+Clindamycin,<=0.25,Resistant,,252059003-30,252059003,,true,
+Vancomycin,<=0.5,Susceptible,,252059003-30,252059003,1,true,
+Tetracycline,>=16,Resistant,,252059003-30,252059003,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,252059003-30,252059003,1,false,1
+Linezolid,1,Susceptible,,252059003-30,252059003,2,true,
+Rifampicin,<=0.5,Susceptible,,252059003-30,252059003,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),252059003-30,252059003,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",252059003-30,252059003,,false,
+Clindamycin,<=0.25,Susceptible,,214886003-31,214886003,,true,
+Vancomycin,<=0.5,Susceptible,,214886003-31,214886003,1,true,
+Tetracycline,>=16,Resistant,,214886003-31,214886003,1,true,2
+Trimethoprim/Sulfamethoxazole,160,Resistant,,214886003-31,214886003,1,false,1
+Linezolid,2,Susceptible,,214886003-31,214886003,2,true,
+Rifampicin,<=0.5,Susceptible,,214886003-31,214886003,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),214886003-31,214886003,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",214886003-31,214886003,,false,
+Clindamycin,<=0.25,Susceptible,,214886004-32,214886004,,true,
+Vancomycin,2,Susceptible,,214886004-32,214886004,1,true,
+Tetracycline,>=16,Resistant,,214886004-32,214886004,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,214886004-32,214886004,1,false,1
+Linezolid,1,Susceptible,,214886004-32,214886004,2,true,
+Rifampicin,<=0.5,Susceptible,,214886004-32,214886004,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),214886004-32,214886004,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",214886004-32,214886004,,false,
+Ampicillin/Sulbactam,16,Intermediate,,220347111-33,220347111,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,220347111-33,220347111,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,220347111-33,220347111,,true,1
+Cefazolin,>=64,Resistant,,220347111-33,220347111,,true,1
+Cefotaxime,>=64,Resistant,,220347111-33,220347111,,true,1
+Ceftriaxone,>=64,Resistant,,220347111-33,220347111,,true,1
+Gentamicin,>=16,Resistant,,220347111-33,220347111,4,true,1
+Ciprofloxacin,>=4,Resistant,,220347111-33,220347111,4,true,1
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,220347111-33,220347111,1,false,1
+Meropenem,<=0.25,Susceptible,,220347111-33,220347111,,true,2
+Amikacin,<=2,Susceptible,,220347111-33,220347111,,true,2
+Clindamycin,<=0.25,Susceptible,,245015005-34,245015005,,true,
+Vancomycin,<=0.5,Susceptible,,245015005-34,245015005,1,true,
+Tetracycline,>=16,Resistant,,245015005-34,245015005,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,245015005-34,245015005,1,false,1
+Linezolid,2,Susceptible,,245015005-34,245015005,2,true,
+Rifampicin,<=0.5,Susceptible,,245015005-34,245015005,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),245015005-34,245015005,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",245015005-34,245015005,,false,
+Clindamycin,<=0.25,Susceptible,,245015006-35,245015006,,true,
+Vancomycin,<=0.5,Susceptible,,245015006-35,245015006,1,true,
+Tetracycline,>=16,Resistant,,245015006-35,245015006,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,245015006-35,245015006,1,false,1
+Linezolid,2,Susceptible,,245015006-35,245015006,2,true,
+Rifampicin,<=0.5,Susceptible,,245015006-35,245015006,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),245015006-35,245015006,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",245015006-35,245015006,,false,
+Clindamycin,<=0.25,Susceptible,,252680002-36,252680002,,true,
+Vancomycin,<=0.5,Susceptible,,252680002-36,252680002,1,true,
+Tetracycline,>=16,Resistant,,252680002-36,252680002,1,true,2
+Trimethoprim/Sulfamethoxazole,160,Resistant,,252680002-36,252680002,1,false,1
+Linezolid,2,Susceptible,,252680002-36,252680002,2,true,
+Rifampicin,<=0.5,Susceptible,,252680002-36,252680002,3,true,
+Cefoxitin Screen,Negative,Test,Absence of methicillin resistance (MRSA like behavior),252680002-36,252680002,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",252680002-36,252680002,,false,
+Ampicillin/Sulbactam,>=32,Resistant,,252670006-38,252670006,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,252670006-38,252670006,,true,1
+Piperacillin/Tazobactam,64,Intermediate,,252670006-38,252670006,,true,1
+Cefazolin,16,Susceptible,,252670006-38,252670006,,true,1
+Cefotaxime,<=1,Susceptible,,252670006-38,252670006,,true,1
+Ceftriaxone,<=1,Susceptible,,252670006-38,252670006,,true,1
+Gentamicin,<=1,Susceptible,,252670006-38,252670006,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,252670006-38,252670006,4,true,1
+Nitrofurantoin,<=16,Susceptible,,252670006-38,252670006,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,252670006-38,252670006,1,false,1
+Ampicillin/Sulbactam,>=32,Resistant,,212169039-40,212169039,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,212169039-40,212169039,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,212169039-40,212169039,,true,1
+Cefazolin,>=64,Resistant,,212169039-40,212169039,,true,1
+Cefotaxime,>=64,Resistant,,212169039-40,212169039,,true,1
+Ceftriaxone,>=64,Resistant,,212169039-40,212169039,,true,1
+Gentamicin,<=1,Susceptible,,212169039-40,212169039,4,true,1
+Ciprofloxacin,>=4,Resistant,,212169039-40,212169039,4,true,1
+Nitrofurantoin,<=16,Susceptible,,212169039-40,212169039,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,212169039-40,212169039,1,false,1
+Amikacin,<=2,Susceptible,,212169039-40,212169039,,true,2
+Meropenem,<=0.25,Susceptible,,212169039-40,212169039,,true,2
+Ampicillin/Sulbactam,>=32,Resistant,,245745057-41,245745057,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,245745057-41,245745057,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,245745057-41,245745057,,true,1
+Cefazolin,>=64,Resistant,,245745057-41,245745057,,true,1
+Cefotaxime,>=64,Resistant,,245745057-41,245745057,,true,1
+Ceftriaxone,>=64,Resistant,,245745057-41,245745057,,true,1
+Gentamicin,>=16,Resistant,,245745057-41,245745057,4,true,1
+Ciprofloxacin,>=4,Resistant,,245745057-41,245745057,4,true,1
+Nitrofurantoin,64,Intermediate,,245745057-41,245745057,1,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,245745057-41,245745057,1,false,1
+Amikacin,<=2,Susceptible,,245745057-41,245745057,,true,2
+Meropenem,<=0.25,Susceptible,,245745057-41,245745057,,true,2
+Erythromycin,>=8,Resistant,,221133022-43,221133022,1,true,
+Clindamycin,<=0.25,Resistant,,221133022-43,221133022,,true,
+Vancomycin,1,Susceptible,,221133022-43,221133022,1,true,
+Tetracycline,>=16,Resistant,,221133022-43,221133022,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,221133022-43,221133022,1,false,1
+Linezolid,2,Susceptible,,221133022-43,221133022,2,true,
+Rifampicin,<=0.5,Susceptible,,221133022-43,221133022,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),221133022-43,221133022,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",221133022-43,221133022,,false,
+Ampicillin/Sulbactam,16,Intermediate,,205891003-48,205891003,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,205891003-48,205891003,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,,,,true,1
+Cefazolin,16,Resistant,,205891003-48,205891003,,true,1
+Cefotaxime,>=64,Resistant,,205891003-48,205891003,,true,1
+Ceftriaxone,<=1,Resistant,,205891003-48,205891003,,true,1
+Gentamicin,<=1,Susceptible,,205891003-48,205891003,4,true,1
+Ciprofloxacin,1,Susceptible,,205891003-48,205891003,4,true,1
+Nitrofurantoin,<=16,Susceptible,,205891003-48,205891003,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,205891003-48,205891003,1,false,1
+Amikacin,<=2,Susceptible,,205891003-48,205891003,,true,2
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Erythromycin,>=8,Resistant,,217547007-51,217547007,1,true,
+Clindamycin,<=0.25,Resistant,,217547007-51,217547007,,true,
+Vancomycin,2,Susceptible,,217547007-51,217547007,1,true,
+Tetracycline,>=16,Resistant,,217547007-51,217547007,1,true,2
+Trimethoprim/Sulfamethoxazole,>320,Resistant,,217547007-51,217547007,1,false,1
+Linezolid,2,Susceptible,,217547007-51,217547007,2,true,
+Rifampicin,<=0.5,Susceptible,,217547007-51,217547007,3,true,
+Cefoxitin Screen,Positive,,Presence of methicillin resistance (MRSA like behavior),217547007-51,217547007,,false,
+Inducible Clindamycin Resistance,Positive,,"Resistance to macrolides, lincosamides, and type B streptogramin.",217547007-51,217547007,,false,
+Clindamycin,<=0.25,Susceptible,,252799001-55,252799001,,true,
+Vancomycin,1,Susceptible,,252799001-55,252799001,1,true,
+Tetracycline,>=16,Resistant,,252799001-55,252799001,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,252799001-55,252799001,1,false,1
+Linezolid,2,Susceptible,,252799001-55,252799001,2,true,
+Rifampicin,<=0.5,Susceptible,,252799001-55,252799001,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),252799001-55,252799001,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",252799001-55,252799001,,false,
+Clindamycin,<=0.25,Resistant,,210299043-57,210299043,,true,
+Vancomycin,<=0.5,Susceptible,,210299043-57,210299043,1,true,
+Tetracycline,<=1,Susceptible,,210299043-57,210299043,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,210299043-57,210299043,1,false,1
+Linezolid,2,Susceptible,,210299043-57,210299043,2,true,
+Rifampicin,<=0.5,Susceptible,,210299043-57,210299043,3,true,
+Teicoplanin,<=0.5,Susceptible,,210299043-57,210299043,,false,
+Tigecycline,<=0.12,Susceptible,,210299043-57,210299043,,false,
+Cefoxitin Screen,Negative,,absence of methicillin resistance (MRSA like behavior),210299043-57,210299043,,false,
+Inducible Clindamycin Resistance,Positive,,"Resistance to macrolides, lincosamides, and type B streptogramin.",210299043-57,210299043,,false,
+Clindamycin,>=8,Resistant,,21679008-58,21679008,,true,
+Vancomycin,1,Susceptible,,21679008-58,21679008,1,true,
+Tetracycline,2,Susceptible,,21679008-58,21679008,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,21679008-58,21679008,1,false,1
+Tigecycline,<=0.12,Susceptible,,21679008-58,21679008,,false,
+Linezolid,>=8,Resistant,,21679008-58,21679008,2,true,
+Rifampicin,>=32,Resistant,,21679008-58,21679008,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),21679008-58,21679008,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",21679008-58,21679008,,false,
+Ampicillin/Sulbactam,4,Susceptible,,244768004-60,244768004,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,244768004-60,244768004,,true,1
+Cefazolin,<=4,Susceptible,,244768004-60,244768004,,true,1
+Cefotaxime,<=1,Susceptible,,244768004-60,244768004,,true,1
+Ceftriaxone,<=1,Susceptible,,244768004-60,244768004,,true,1
+Gentamicin,<=1,Susceptible,,244768004-60,244768004,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,244768004-60,244768004,4,true,1
+Nitrofurantoin,<=16,Susceptible,,244768004-60,244768004,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,244768004-60,244768004,1,false,1
+Amikacin,<=2,Susceptible,,,,,true,2
+Ampicillin,>=32,Resistant,,213378008-62,213378008,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,213378008-62,213378008,,true,1
+Ampicillin/Sulbactam,16,Susceptible,,213378008-62,213378008,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,213378008-62,213378008,,true,1
+Cefoxitin,<=4,Susceptible,,213378008-62,213378008,1,false,2
+Cefazolin,>=64,Resistant,,213378008-62,213378008,,true,1
+Cefuroxime,>=64,Resistant,,213378008-62,213378008,,true,2
+Cefotaxime,>=64,Resistant,,213378008-62,213378008,,true,1
+Gentamicin,>=16,Resistant,,213378008-62,213378008,4,true,1
+Meropenem,<=0.25,Susceptible,,213378008-62,213378008,,true,2
+Amikacin,<=2,Susceptible,,213378008-62,213378008,,true,2
+Nitrofurantoin,<=16,Susceptible,,213378008-62,213378008,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,213378008-62,213378008,1,false,1
+Fluconazole,1,Susceptible,,17948009-64,17948009,,true,
+Voriconazole,<=0.12,Susceptible,,17948009-64,17948009,,false,
+Caspofungin,<=0.12,Susceptible,,17948009-64,17948009,,false,
+Micafungin,<=0.06,Susceptible,,17948009-64,17948009,,false,
+Fluconazole,<=1,Susceptible,,17948009-64,17948009,,true,
+,,,,17948009-64,17948009,,,
+Ampicillin,>=32,Resistant,,1875605007-65,1875605007,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,1875605007-65,1875605007,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,1875605007-65,1875605007,,true,1
+Cefazolin,>=64,Resistant,,1875605007-65,1875605007,,true,1
+Cefuroxime,>=64,Resistant,,1875605007-65,1875605007,,true,2
+Gentamicin,>=16,Resistant,,1875605007-65,1875605007,4,true,1
+Amikacin,4,Susceptible,,1875605007-65,1875605007,,true,2
+Meropenem,<=0.25,Susceptible,,1875605007-65,1875605007,,true,2
+Nitrofurantoin,64,Intermediate,,1875605007-65,1875605007,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,1875605007-65,1875605007,1,false,1
+Erythromycin,<=0.2,Susceptible,,123456-66,123456,1,true,
+Clindamycin,<=0.2,Susceptible,,123456-66,123456,,true,
+Vancomycin,<=0.5,Susceptible,,123456-66,123456,1,true,
+Tetracycline,<=1,Susceptible,,123456-66,123456,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,123456-66,123456,1,false,1
+Tigecycline,<=0.12,Susceptible,,123456-66,123456,,false,
+Linezolid,2,Susceptible,,123456-66,123456,2,true,
+Rifampicin,>=32,Resistant,,,,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),123456-66,123456,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",123456-66,123456,,false,
+Ampicillin/Sulbactam,>=32,Resistant,,,,,true,1
+Amoxicillin/Clavulanic acid,4,Resistant,,23266204-67,23266204,,true,1
+Cefazolin,>=64,Resistant,,23266204-67,23266204,,true,1
+Cefuroxime,>=64,Resistant,,23266204-67,23266204,,true,2
+Gentamicin,<=1,Susceptible,,23266204-67,23266204,4,true,1
+Amikacin,<=2,Susceptible,,23266204-67,23266204,,true,2
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Nitrofurantoin,64,Intermediate,,23266204-67,23266204,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,23266204-67,23266204,1,false,1
+Piperacillin/Tazobactam,8,Susceptible,,23266204-67,23266204,,true,1
+Cefepime,2,Susceptible,,23266204-67,23266204,,false,2
+Ciprofloxacin,0.5,Susceptible,,23266204-67,23266204,4,true,1
+Ampicillin/Sulbactam,<=2,Susceptible,,214325005-68,214325005,,true,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,214325005-68,214325005,,true,1
+Cefazolin,<=4,Susceptible,,214325005-68,214325005,,true,1
+Cefotaxime,<=1,Susceptible,,214325005-68,214325005,,true,1
+Gentamicin,<=1,Susceptible,,214325005-68,214325005,4,true,1
+Amikacin,4,Susceptible,,,,,true,2
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Nitrofurantoin,<=16,Susceptible,,214325005-68,214325005,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,214325005-68,214325005,1,false,1
+Piperacillin/Tazobactam,<=4,Susceptible,,214325005-68,214325005,,true,1
+Ceftriaxone,<=1,Susceptible,,214325005-68,214325005,,true,1
+Ciprofloxacin,<=0.25,Susceptible,,214325005-68,214325005,4,true,1
+Clindamycin,1,Susceptible,,253178002-72,253178002,,true,
+Vancomycin,<=0.5,Susceptible,,253178002-72,253178002,1,true,
+Tetracycline,10,Resistant,,253178002-72,253178002,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,253178002-72,253178002,1,false,1
+Tigecycline,<=0.12,Susceptible,,253178002-72,253178002,,false,
+Linezolid,2,Susceptible,,253178002-72,253178002,2,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),253178002-72,253178002,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",253178002-72,253178002,,false,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Gentamicin,,Susceptible,,,,4,true,1
+Tobramycin,,Susceptible,,,,,true,2
+Levofloxacin,,Susceptible,,,,4,true,1
+Erythromycin,,Resistant,,,,1,true,
+Clindamycin,,Resistant,,,,,true,
+,,,,,,,,
+Clindamycin,<=0.25,Resistant,,251646001-76,251646001,,true,
+Vancomycin,1,Susceptible,,251646001-76,251646001,1,true,
+Tetracycline,0.5,Susceptible,,251646001-76,251646001,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,251646001-76,251646001,1,false,1
+Linezolid,2,Susceptible,,251646001-76,251646001,2,true,
+Rifampicin,<=0.5,Susceptible,,251646001-76,251646001,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),251646001-76,251646001,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",251646001-76,251646001,,false,
+Nitrofurantoin,<=16,Susceptible,,251646001-76,251646001,1,true,1
+Clindamycin,<=0.25,Susceptible,,218096011-78,218096011,,true,
+Vancomycin,2,Susceptible,,218096011-78,218096011,1,true,
+Tetracycline,>=16,Resistant,,218096011-78,218096011,1,true,2
+Trimethoprim/Sulfamethoxazole,80,Resistant,,218096011-78,218096011,1,false,1
+Tigecycline,<=0.12,Susceptible,,218096011-78,218096011,,false,
+Linezolid,1,Susceptible,,218096011-78,218096011,2,true,
+Rifampicin,<=0.5,Susceptible,,218096011-78,218096011,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),218096011-78,218096011,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",218096011-78,218096011,,false,
+Clindamycin,<=0.25,Susceptible,,,,,true,
+Vancomycin,2,Susceptible,,,,1,true,
+Tetracycline,>=16,Resistant,,,,1,true,2
+Trimethoprim/Sulfamethoxazole,80,Resistant,,,,1,false,1
+Tigecycline,<=0.12,Susceptible,,,,,false,
+Linezolid,1,Susceptible,,,,2,true,
+Rifampicin,<=0.5,Susceptible,,,,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),,,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of resistance to macrolides, lincosamides, and type B streptogramin.",,,,false,
+Clindamycin,<=0.25,Resistant,,246507003-77,246507003,,true,
+Vancomycin,1,Susceptible,,246507003-77,246507003,1,true,
+Tetracycline,>=16,Resistant,,246507003-77,246507003,1,true,2
+Trimethoprim/Sulfamethoxazole,20,Susceptible,,246507003-77,246507003,1,false,1
+Linezolid,2,Susceptible,,246507003-77,246507003,2,true,
+Rifampicin,1,Susceptible,,246507003-77,246507003,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),246507003-77,246507003,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",246507003-77,246507003,,false,
+Nitrofurantoin,<=16,Susceptible,,246507003-77,246507003,1,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,253246001-81,253246001,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,253246001-81,253246001,,true,1
+Piperacillin/Tazobactam,32,Intermediate,,253246001-81,253246001,,true,1
+Cefazolin,>=64,Resistant,,253246001-81,253246001,,true,1
+Cefoxitin,<=4,Susceptible,,253246001-81,253246001,1,false,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,253246001-81,253246001,1,false,1
+Gentamicin,>=16,Resistant,,253246001-81,253246001,4,true,1
+Ciprofloxacin,>=4,Resistant,,253246001-81,253246001,4,true,1
+Cefotaxime,>=64,Resistant,,253246001-81,253246001,,true,1
+Ceftriaxone,>=64,Resistant,,253246001-81,253246001,,true,1
+Nitrofurantoin,64,Intermediate,,253246001-81,253246001,1,true,1
+Amikacin,4,Susceptible,,253246001-81,253246001,,true,2
+Meropenem,<=0.25,Susceptible,,253246001-81,253246001,,true,2
+Cefoxitin,<=4,Susceptible,,,,1,false,2
+Clindamycin,<=0.25,Resistant,,241162006-82,241162006,,true,
+Vancomycin,1,Susceptible,,241162006-82,241162006,1,true,
+Tetracycline,>=16,Resistant,,241162006-82,241162006,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,241162006-82,241162006,1,false,1
+Linezolid,1,Susceptible,,241162006-82,241162006,2,true,
+Rifampicin,<0.5,Susceptible,,241162006-82,241162006,3,true,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),241162006-82,241162006,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",241162006-82,241162006,,false,
+Nitrofurantoin,<=16,Susceptible,,241162006-82,241162006,1,true,1
+Clindamycin,<=0.25,Resistant,,23260013-85,23260013,,true,
+Vancomycin,2,Susceptible,,23260013-85,23260013,1,true,
+Tetracycline,>=16,Resistant,,23260013-85,23260013,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,23260013-85,23260013,1,false,1
+Linezolid,2,Susceptible,,23260013-85,23260013,2,true,
+Rifampicin,<0.5,Susceptible,,23260013-85,23260013,3,true,
+Teicoplanin,2,Susceptible,,23260013-85,23260013,,false,
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),23260013-85,23260013,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",23260013-85,23260013,,false,
+Amoxicillin/Clavulanic acid,16,Intermediate,,232678018-91,232678018,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,232678018-91,232678018,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,232678018-91,232678018,,true,1
+Cefazolin,>=64,Resistant,,232678018-91,232678018,,true,1
+Cefoxitin,32,Resistant,,232678018-91,232678018,1,false,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,232678018-91,232678018,1,false,1
+Gentamicin,<=1,Susceptible,,232678018-91,232678018,4,true,1
+Ciprofloxacin,>=4,Resistant,,232678018-91,232678018,4,true,1
+Cefotaxime,>=64,Resistant,,232678018-91,232678018,,true,1
+Ceftriaxone,>=64,Resistant,,232678018-91,232678018,,true,1
+Nitrofurantoin,32,Susceptible,,232678018-91,232678018,1,true,1
+Amikacin,<=2,Susceptible,,232678018-91,232678018,,true,2
+Meropenem,4,Susceptible,,232678018-91,232678018,,true,2
+Ampicillin/Sulbactam,>=32,Resistant,,1584003-92,1584003,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,1584003-92,1584003,,true,1
+Cefazolin,>=64,Resistant,,1584003-92,1584003,,true,1
+Cefotaxime,<=1,Resistant,,1584003-92,1584003,,true,1
+Ceftriaxone,<=1,Resistant,,1584003-92,1584003,,true,1
+Gentamicin,<=1,Susceptible,,1584003-92,1584003,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,1584003-92,1584003,4,true,1
+Nitrofurantoin,<=16,Susceptible,,1584003-92,1584003,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,1584003-92,1584003,1,false,1
+Clindamycin,<=0.25,Resistant,,203269033-94,203269033,,true,
+Vancomycin,<=0.5,Susceptible,,203269033-94,203269033,1,true,
+Tetracycline,<=1,Susceptible,,203269033-94,203269033,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,203269033-94,203269033,1,false,1
+Linezolid,1,Susceptible,,203269033-94,203269033,2,true,
+Rifampicin,<=0.5,Susceptible,,203269033-94,203269033,3,true,
+Teicoplanin,<=0.5,Susceptible,,203269033-94,203269033,,false,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),203269033-94,203269033,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",203269033-94,203269033,,false,
+Ampicillin,16,Resistant,,219240011-95,219240011,,true,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,219240011-95,219240011,,true,1
+Ampicillin/Sulbactam,<=2,Susceptible,,219240011-95,219240011,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,219240011-95,219240011,,true,1
+Cefazolin,>=64,Resistant,,219240011-95,219240011,,true,1
+Cefotaxime,<=1,Susceptible,,219240011-95,219240011,,true,1
+Ceftriaxone,<=1,Susceptible,,219240011-95,219240011,,true,1
+Gentamicin,<=1,Susceptible,,219240011-95,219240011,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,219240011-95,219240011,4,true,1
+Nitrofurantoin,<=16,Susceptible,,219240011-95,219240011,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,219240011-95,219240011,1,false,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,244696002-97,244696002,,true,1
+Ampicillin/Sulbactam,<=2,Susceptible,,244696002-97,244696002,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,244696002-97,244696002,,true,1
+Cefazolin,<=4,Susceptible,,244696002-97,244696002,,true,1
+Cefotaxime,<=1,Susceptible,,244696002-97,244696002,,true,1
+Ceftriaxone,<=1,Susceptible,,244696002-97,244696002,,true,1
+Gentamicin,<=1,Susceptible,,244696002-97,244696002,4,true,1
+Ciprofloxacin,0.5,Susceptible,,244696002-97,244696002,4,true,1
+Nitrofurantoin,<=16,Susceptible,,244696002-97,244696002,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,244696002-97,244696002,1,false,1
+Clindamycin,<=0.25,Resistant,,241264008-98,241264008,,true,
+Vancomycin,2,Susceptible,,241264008-98,241264008,1,true,
+Tetracycline,>=16,Resistant,,241264008-98,241264008,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,241264008-98,241264008,1,false,1
+Linezolid,2,Susceptible,,241264008-98,241264008,2,true,
+Rifampicin,<=0.5,Susceptible,,241264008-98,241264008,3,true,
+Teicoplanin,2,Susceptible,,241264008-98,241264008,,false,
+Nitrofurantoin,<=16,Susceptible,,241264008-98,241264008,1,true,1
+Tobramycin,2,Susceptible,,241264008-98,241264008,,true,2
+Cefoxitin Screen,Positive,Test," Presence of methicillin resistance (MRSA like behavior)",241264008-98,241264008,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Resistance to macrolides, lincosamides, and type B streptogramin.",241264008-98,241264008,,false,
+Ampicillin,>=32,Resistant,,225361010-101,225361010,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,225361010-101,225361010,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,225361010-101,225361010,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,225361010-101,225361010,,true,1
+Cefazolin,>=64,Resistant,,225361010-101,225361010,,true,1
+Cefotaxime,>=64,Resistant,,225361010-101,225361010,,true,1
+Ceftriaxone,>=64,Resistant,,225361010-101,225361010,,true,1
+Gentamicin,<=1,Susceptible,,225361010-101,225361010,4,true,1
+Ciprofloxacin,>=4,Resistant,,225361010-101,225361010,4,true,1
+Nitrofurantoin,<=16,Susceptible,,225361010-101,225361010,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,225361010-101,225361010,1,false,1
+Amikacin,16,Susceptible,,225361010-101,225361010,,true,2
+Clindamycin,>=8,Resistant,,252626001-102,252626001,,true,
+Vancomycin,>=32,Resistant,,252626001-102,252626001,1,true,
+Tetracycline,<=1,Susceptible,,252626001-102,252626001,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,252626001-102,252626001,1,false,1
+Linezolid,>=8,Resistant,,252626001-102,252626001,2,true,
+Rifampicin,>=32,Resistant,,252626001-102,252626001,3,true,
+Tigecycline,<=0.12,Susceptible,,252626001-102,252626001,,false,
+Nitrofurantoin,<=16,Susceptible,,252626001-102,252626001,1,true,1
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),252626001-102,252626001,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",252626001-102,252626001,,false,
+,,,,,,,,
+Clindamycin,<=0.25,Susceptible,,221983006-107,221983006,,true,
+Vancomycin,1,Susceptible,,221983006-107,221983006,1,true,
+Tetracycline,>=16,Resistant,,221983006-107,221983006,1,true,2
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,221983006-107,221983006,1,false,1
+Linezolid,2,Susceptible,,221983006-107,221983006,2,true,
+Rifampicin,<=0.5,Susceptible,,221983006-107,221983006,3,true,
+Tigecycline,<=0.12,Susceptible,,,,,false,
+Nitrofurantoin,<=16,Susceptible,,221983006-107,221983006,1,true,1
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),221983006-107,221983006,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",221983006-107,221983006,,false,
+Clindamycin,<=0.25,Susceptible,,205922015-110,205922015,,true,
+Vancomycin,1,Susceptible,,205922015-110,205922015,1,true,
+Tetracycline,<=1,Susceptible,,205922015-110,205922015,1,true,2
+Trimethoprim/Sulfamethoxazole,160,Resistant,,205922015-110,205922015,1,false,1
+Linezolid,1,Susceptible,,205922015-110,205922015,2,true,
+Rifampicin,<=0.5,Susceptible,,,,3,true,
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Azithromycin,<=0.25,Susceptible,,205922015-110,205922015,1,true,
+Clarithromycin,<=0.25,Susceptible,,205922015-110,205922015,1,true,
+Doxycycline,<=1,Susceptible,,205922015-110,205922015,1,true,
+Minocycline,<=1,Susceptible,,205922015-110,205922015,1,false,
+Cefoxitin Screen,Positive,Test,Presence of methicillin resistance (MRSA like behavior),205922015-110,205922015,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",205922015-110,205922015,,false,
+Amoxicillin/Clavulanic acid,16,Intermediate,,6412025-112,6412025,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,6412025-112,6412025,,true,1
+Piperacillin/Tazobactam,32,Intermediate,,6412025-112,6412025,,true,1
+Cefazolin,>=64,Resistant,,6412025-112,6412025,,true,1
+Cefotaxime,>=64,Resistant,,6412025-112,6412025,,true,1
+Ceftriaxone,16,Resistant,,6412025-112,6412025,,true,1
+Gentamicin,<=1,Susceptible,,6412025-112,6412025,4,true,1
+Ciprofloxacin,>=4,Resistant,,6412025-112,6412025,4,true,1
+Nitrofurantoin,256,Resistant,,6412025-112,6412025,1,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,6412025-112,6412025,1,false,1
+Amikacin,4,Susceptible,,6412025-112,6412025,,true,2
+Meropenem,<=0.25,Susceptible,,6412025-112,6412025,,true,2
+Amoxicillin/Clavulanic acid,16,Intermediate,,227021003-115,227021003,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,227021003-115,227021003,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,227021003-115,227021003,,true,1
+Cefazolin,>=64,Resistant,,227021003-115,227021003,,true,1
+Cefotaxime,>=64,Resistant,,227021003-115,227021003,,true,1
+Ceftriaxone,>=64,Resistant,,227021003-115,227021003,,true,1
+Gentamicin,>=16,Resistant,,227021003-115,227021003,4,true,1
+Ciprofloxacin,>=4,Resistant,,227021003-115,227021003,4,true,1
+Nitrofurantoin,256,Resistant,,,,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,227021003-115,227021003,1,false,1
+Amikacin,<=2,Susceptible,,227021003-115,227021003,,true,2
+Meropenem,<=0.25,Susceptible,,227021003-115,227021003,,true,2
+Clindamycin,<=0.25,Resistant,,3246001-116,3246001,,true,
+Vancomycin,<=0.5,Susceptible,,3246001-116,3246001,1,true,
+Tetracycline,>=16,Resistant,,3246001-116,3246001,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,3246001-116,3246001,1,false,1
+Linezolid,<=0.5,Susceptible,,3246001-116,3246001,2,true,
+Azithromycin,0.5,Resistant,,3246001-116,3246001,1,true,
+Clarithromycin,0.5,Resistant,,3246001-116,3246001,1,true,
+Teicoplanin,<=0.5,Susceptible,,3246001-116,3246001,,false,
+Tigecycline,<=0.5,Susceptible,,3246001-116,3246001,,false,
+Nitrofurantoin,<=16,Susceptible,,3246001-116,3246001,1,true,1
+Cefoxitin Screen,Negative,Test,Absence of methicillin resistance (MRSA like behavior),3246001-116,3246001,,false,
+Inducible Clindamycin Resistance,Positive,Test,"Presence of Resistance to macrolides, lincosamides, and type B streptogramin.",3246001-116,3246001,,false,
+Clindamycin,<=0.25,Susceptible,,235373026-119,235373026,,true,
+Vancomycin,1,Susceptible,,235373026-119,235373026,1,true,
+Tetracycline,<=1,Susceptible,,235373026-119,235373026,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,235373026-119,235373026,1,false,1
+Linezolid,<=0.5,Susceptible,,235373026-119,235373026,2,true,
+Azithromycin,0.5,Resistant,,235373026-119,235373026,1,true,
+Clarithromycin,0.5,Resistant,,235373026-119,235373026,1,true,
+Teicoplanin,<=0.5,Susceptible,,235373026-119,235373026,,false,
+Tigecycline,<=0.5,Susceptible,,235373026-119,235373026,,false,
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Cefoxitin Screen,Negative,Test,Absence of methicillin resistance (MRSA like behavior),235373026-119,235373026,,false,
+Inducible Clindamycin Resistance,Negative,Test,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",235373026-119,235373026,,false,
+Erythromycin,>=8,Resistant,,220444011-127,220444011,1,true,
+Clindamycin,>=8,Resistant,,220444011-127,220444011,,true,
+Vancomycin,1,Susceptible,,220444011-127,220444011,1,true,
+Tetracycline,>=16,Resistant,,220444011-127,220444011,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,220444011-127,220444011,1,false,1
+Linezolid,2,Susceptible,,220444011-127,220444011,2,true,
+Teicoplanin,2,Susceptible,,220444011-127,220444011,,false,
+Rifampicin,<=0.5,Susceptible,,220444011-127,220444011,3,true,
+Nitrofurantoin,<=16,Susceptible,,220444011-127,220444011,1,true,1
+Inducible Clindamycin Resistance,NEG,,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",220444011-127,220444011,,false,
+Cefoxitin Screen,POS,,Presence of methicillin resistance (MRSA like behavior,220444011-127,220444011,,false,
+Voriconazole,0.25,Susceptible,,252189004-142,252189004,,false,
+Caspofungin,<=0.12,Susceptible,,252189004-142,252189004,,false,
+Micafungin,<=0.06,Susceptible,,252189004-142,252189004,,false,
+Flucytosine,<=1,Susceptible,,252189004-142,252189004,,false,
+Ampicillin/Sulbactam,>=32,Resistant,,253822002-143,253822002,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,253822002-143,253822002,,true,1
+Cefazolin,>=64,Resistant,,253822002-143,253822002,,true,1
+Cefuroxime,>=64,Resistant,,253822002-143,253822002,,true,2
+Cefotaxime,>=64,Resistant,,253822002-143,253822002,,true,1
+Meropenem,<=0.25,Susceptible,,253822002-143,253822002,,true,2
+Amikacin,4,Susceptible,,253822002-143,253822002,,true,2
+Nitrofurantoin,<=16,Susceptible,,253822002-143,253822002,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,253822002-143,253822002,1,false,1
+Ampicillin/Sulbactam,>=32,Resistant,,231259004-151,231259004,,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,231259004-151,231259004,,true,1
+Cefazolin,>=64,Resistant,,231259004-151,231259004,,true,1
+Cefuroxime,>=64,Resistant,,231259004-151,231259004,,true,2
+Cefotaxime,<=1,Susceptible,,231259004-151,231259004,,true,1
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Amikacin,<=2,Susceptible,,231259004-151,231259004,,true,2
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,231259004-151,231259004,1,false,1
+Piperacillin/Tazobactam,<=4,Susceptible,,231259004-151,231259004,,true,1
+Ceftriaxone,<=1,Susceptible,,231259004-151,231259004,,true,1
+Ciprofloxacin,>=4,Resistant,,231259004-151,231259004,4,true,1
+Cefazolin,>=64,Resistant,,224536026-152,224536026,,true,1
+Cefuroxime,>=64,Resistant,,224536026-152,224536026,,true,2
+Cefotaxime,>=64,Susceptible,,224536026-152,224536026,,true,1
+Amikacin,4,Susceptible,,224536026-152,224536026,,true,2
+Ceftriaxone,>=64,Resistant,,224536026-152,224536026,,true,1
+Ciprofloxacin,2,Intermediate,,224536026-152,224536026,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,224536026-152,224536026,1,false,1
+Cefoxitin,<=4,Susceptible,,224536026-152,224536026,1,false,2
+Amoxicillin/Clavulanic acid,8,Susceptible,,215609001-153,215609001,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,215609001-153,215609001,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,215609001-153,215609001,,true,1
+Cefazolin,>=64,Resistant,,215609001-153,215609001,,true,1
+Cefuroxime,>=64,Resistant,,215609001-153,215609001,,true,2
+Cefotaxime,>=64,Susceptible,,215609001-153,215609001,,true,1
+Amikacin,<=2,Susceptible,,215609001-153,215609001,,true,2
+Ceftriaxone,>=64,Resistant,,215609001-153,215609001,,true,1
+Ciprofloxacin,>=4,Resistant,,215609001-153,215609001,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,215609001-153,215609001,1,false,1
+Cefoxitin,>=4,Susceptible,,215609001-153,215609001,1,false,2
+Nitrofurantoin,<=16,Susceptible,,215609001-153,215609001,1,true,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,253930001-154,253930001,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,253930001-154,253930001,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,253930001-154,253930001,,true,1
+Cefazolin,<=4,Susceptible,,253930001-154,253930001,,true,1
+Cefuroxime,2,Susceptible,,253930001-154,253930001,,true,2
+Cefotaxime,<=1,Susceptible,,253930001-154,253930001,,true,1
+Amikacin,<=2,Susceptible,,,,,true,2
+Ceftriaxone,<=1,Susceptible,,253930001-154,253930001,,true,1
+Ciprofloxacin,<=0.25,Susceptible,,253930001-154,253930001,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,253930001-154,253930001,1,false,1
+Nitrofurantoin,<=16,Susceptible,,253930001-154,253930001,1,true,1
+Amoxicillin/Clavulanic acid,4,Resistant,,252626002-155,252626002,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,,,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,252626002-155,252626002,,true,1
+Cefazolin,>=64,Resistant,,252626002-155,252626002,,true,1
+Cefuroxime,<=1,Resistant,,252626002-155,252626002,,true,2
+Cefotaxime,<=1,Susceptible,,252626002-155,252626002,,true,1
+Ceftriaxone,<=1,Susceptible,,252626002-155,252626002,,true,1
+Ciprofloxacin,1,Susceptible,,252626002-155,252626002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,252626002-155,252626002,1,false,1
+Nitrofurantoin,<=16,Susceptible,,252626002-155,252626002,1,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,220869007-157,220869007,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,220869007-157,220869007,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,220869007-157,220869007,,true,1
+Cefazolin,>=64,Resistant,,220869007-157,220869007,,true,1
+Cefuroxime,>=64,Resistant,,220869007-157,220869007,,true,2
+Gentamicin,<=1,Susceptible,,220869007-157,220869007,4,true,1
+Cefotaxime,>=64,Resistant,,220869007-157,220869007,,true,1
+Ceftriaxone,>=64,Resistant,,220869007-157,220869007,,true,1
+Ciprofloxacin,>=4,Resistant,,220869007-157,220869007,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,220869007-157,220869007,1,false,1
+Nitrofurantoin,<=16,Susceptible,,220869007-157,220869007,1,true,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,254197005-158,254197005,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,254197005-158,254197005,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,254197005-158,254197005,,true,1
+Cefazolin,16,Susceptible,,254197005-158,254197005,,true,1
+Cefuroxime,<=1,Susceptible,,254197005-158,254197005,,true,2
+Gentamicin,<=1,Susceptible,,254197005-158,254197005,4,true,1
+Cefotaxime,<=1,Susceptible,,254197005-158,254197005,,true,1
+Ceftriaxone,<=1,Susceptible,,254197005-158,254197005,,true,1
+Ciprofloxacin,<=0.25,Susceptible,,254197005-158,254197005,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,254197005-158,254197005,1,false,1
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Voriconazole,4,Resistant,,213271011-159,213271011,,false,
+Caspofungin,<=0.12,Susceptible,,213271011-159,213271011,,false,
+Micafungin,<=0.06,Susceptible,,213271011-159,213271011,,false,
+Flucytosine,<=1,Susceptible,,213271011-159,213271011,,false,
+Amoxicillin/Clavulanic acid,4,Susceptible,,6707026-160,6707026,,true,1
+Ampicillin/Sulbactam,8,Susceptible,,6707026-160,6707026,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,6707026-160,6707026,,true,1
+Cefazolin,>=64,Resistant,,6707026-160,6707026,,true,1
+Cefuroxime,>=64,Resistant,,6707026-160,6707026,,true,2
+Gentamicin,<=1,Susceptible,,6707026-160,6707026,4,true,1
+Cefotaxime,>=64,Resistant,,6707026-160,6707026,,true,1
+Ceftriaxone,4,Resistant,,6707026-160,6707026,,true,1
+Ciprofloxacin,>=4,Resistant,,6707026-160,6707026,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,6707026-160,6707026,1,false,1
+Amikacin,<=2,Susceptible,,6707026-160,6707026,,true,2
+Voriconazole,>=8,Resistant,,6707026-161,6707026,,false,
+Caspofungin,>=8,Resistant,,6707026-161,6707026,,false,
+Micafungin,>=8,Resistant,,6707026-161,6707026,,false,
+Flucytosine,>=64,Resistant,,6707026-161,6707026,,false,
+Amoxicillin/Clavulanic acid,16,Intermediate,,254321002-162,254321002,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,254321002-162,254321002,,true,1
+Piperacillin/Tazobactam,64,Intermediate,,254321002-162,254321002,,true,1
+Cefazolin,>=64,Resistant,,254321002-162,254321002,,true,1
+Cefuroxime,>=64,Resistant,,254321002-162,254321002,,true,2
+Gentamicin,<=1,Susceptible,,254321002-162,254321002,4,true,1
+Cefotaxime,>=64,Resistant,,254321002-162,254321002,,true,1
+Ceftriaxone,<=1,Resistant,,254321002-162,254321002,,true,1
+Ciprofloxacin,>=4,Resistant,,254321002-162,254321002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Susceptible,,254321002-162,254321002,1,false,1
+Nitrofurantoin,<=16,Susceptible,,254321002-162,254321002,1,true,1
+Amikacin,4,Susceptible,,254321002-162,254321002,,true,2
+Fluconazole,18,Susceptible,,254321001-163,254321001,,true,
+Voriconazole,4,Resistant,,254321001-163,254321001,,false,
+Caspofungin,>=8,Resistant,,254321001-163,254321001,,false,
+Micafungin,>=8,Resistant,,254321001-163,254321001,,false,
+Flucytosine,>=64,Resistant,,254321001-163,254321001,,false,
+Amoxicillin/Clavulanic acid,4,Susceptible,,253806001-164,253806001,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,253806001-164,253806001,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,253806001-164,253806001,,true,1
+Cefazolin,>=64,Resistant,,253806001-164,253806001,,true,1
+Cefuroxime,>=64,Resistant,,253806001-164,253806001,,true,2
+Gentamicin,<=1,Susceptible,,253806001-164,253806001,4,true,1
+Cefotaxime,>=64,Resistant,,253806001-164,253806001,,true,1
+Ceftriaxone,>=64,Resistant,,253806001-164,253806001,,true,1
+Ciprofloxacin,<=0.25,Susceptible,,253806001-164,253806001,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,253806001-164,253806001,1,false,1
+Nitrofurantoin,<=16,Susceptible,,253806001-164,253806001,1,true,1
+Amikacin,4,Susceptible,,,,,true,2
+Voriconazole,<=0.12,Susceptible,,191527009-170,191527009,,false,
+Caspofungin,<=0.12,Susceptible,,191527009-170,191527009,,false,
+Micafungin,>=8,Resistant,,,,,false,
+Flucytosine,<=1,Susceptible,,191527009-170,191527009,,false,
+Ampicillin/Sulbactam,>=32,Resistant,,,,,true,1
+Amoxicillin/Clavulanic acid,4,Resistant,,201502024-171,201502024,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,201502024-171,201502024,,true,1
+Cefazolin,>=64,Resistant,,201502024-171,201502024,,true,1
+Cefuroxime,4,Resistant,,201502024-171,201502024,,true,2
+Cefoxitin,8,Resistant,,201502024-171,201502024,1,false,2
+Meropenem,<=0.25,Susceptible,,201502024-171,201502024,,true,2
+Amikacin,<=2,Susceptible,,201502024-171,201502024,,true,2
+Ciprofloxacin,1,Susceptible,,201502024-171,201502024,4,true,1
+Nitrofurantoin,<=16,Susceptible,,201502024-171,201502024,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,201502024-171,201502024,1,false,1
+Cefotaxime,<=1,Susceptible,,201502024-171,201502024,,,
+Ceftriaxone,<=1,Susceptible,,201502024-171,201502024,,true,1
+Clindamycin,>=8,Resistant,,254414001-172,254414001,,true,
+Vancomycin,>=32,Resistant,,254414001-172,254414001,1,true,
+Tetracycline,<=1,Susceptible,,254414001-172,254414001,1,true,2
+Trimethoprim/Sulfamethoxazole,<=10,Susceptible,,254414001-172,254414001,1,false,1
+Linezolid,>=8,Resistant,,254414001-172,254414001,2,true,
+Teicoplanin,2,Susceptible,,,,,false,
+Rifampicin,<=0.5,Susceptible,,,,3,true,
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Inducible Clindamycin Resistance,NEG,,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin.",254414001-172,254414001,,false,
+Cefoxitin Screen,POS,,Presence of methicillin resistance (MRSA like behavior,254414001-172,254414001,,false,
+Levofloxacin,<=0.12,Susceptible,,254414001-172,254414001,4,true,1
+Moxifloxacin,<=0.25,Susceptible,,254414001-172,254414001,4,true,
+Gentamicin,<=0.5,Susceptible,,254414001-172,254414001,4,true,1
+Piperacillin/Tazobactam,8,Susceptible,,6707032-179,6707032,,true,1
+Cefazolin,>=64,Resistant,,6707032-179,6707032,,true,1
+Cefuroxime,>=64,Resistant,,6707032-179,6707032,,true,2
+Cefoxitin,>=64,Resistant,,6707032-179,6707032,1,false,2
+Meropenem,<=0.25,Susceptible,,6707032-179,6707032,,true,2
+Amikacin,<=2,Susceptible,,6707032-179,6707032,,true,2
+Ciprofloxacin,0.5,Susceptible,,6707032-179,6707032,4,true,1
+Nitrofurantoin,32,Susceptible,,,,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,6707032-179,6707032,1,false,1
+Cefotaxime,<=1,Susceptible,,6707032-179,6707032,,,
+Ceftriaxone,<=1,Susceptible,,6707032-179,6707032,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,Deleted Row,,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,Deleted Row,,,true,1
+Cefazolin,>=64,Resistant,,Deleted Row,,,true,1
+Cefuroxime,>=64,Resistant,,Deleted Row,,,true,2
+Cefoxitin,>=64,Resistant,,Deleted Row,,1,false,2
+Meropenem,<=0.25,Susceptible,,Deleted Row,,,true,2
+Amikacin,8,Susceptible,,Deleted Row,,,true,2
+Ciprofloxacin,>=4,Resistant,,Deleted Row,,4,true,1
+Nitrofurantoin,64,Intermediate,,Deleted Row,,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,Deleted Row,,1,false,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,254614001-183,254614001,,true,1
+Cefazolin,>=64,Resistant,,254614001-183,254614001,,true,1
+Cefotaxime,>=64,Resistant,,254614001-183,254614001,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,254614001-183,254614001,,true,1
+Gentamicin,<=1,Susceptible,,254614001-183,254614001,4,true,1
+Ciprofloxacin,>=4,Resistant,,254614001-183,254614001,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,254614001-183,254614001,1,false,1
+Cefotaxime,<=1,Susceptible,,,,,,
+Nitrofurantoin,<=16,Susceptible,,254614001-183,254614001,1,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,,,,true,1
+Ceftriaxone,>=64,Resistant,,254614001-183,254614001,,true,1
+Amikacin,4,Susceptible,,254614001-183,254614001,,true,2
+Meropenem,<=0.25,Susceptible,,254614001-183,254614001,,true,2
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Cefazolin,>=64,Resistant,,11602016-188,11602016,,true,1
+Cefotaxime,>=64,Resistant,,11602016-188,11602016,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,11602016-188,11602016,,true,1
+Gentamicin,<=1,Susceptible,,11602016-188,11602016,4,true,1
+Ciprofloxacin,>=4,Resistant,,11602016-188,11602016,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,11602016-188,11602016,1,false,1
+Nitrofurantoin,>=512,Resistant,,11602016-188,11602016,1,true,1
+Ceftriaxone,>=64,Resistant,,11602016-188,11602016,,true,1
+Amikacin,<=2,Susceptible,,11602016-188,11602016,,true,2
+Meropenem,<=0.25,Susceptible,,11602016-188,11602016,,true,2
+Cefazolin,>=64,Resistant,,6707039-190,6707039,,true,1
+Cefotaxime,>=64,Resistant,,6707039-190,6707039,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,6707039-190,6707039,,true,1
+Gentamicin,<=1,Susceptible,,6707039-190,6707039,4,true,1
+Ciprofloxacin,0.5,Susceptible,,6707039-190,6707039,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,6707039-190,6707039,1,false,1
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Ceftriaxone,>=64,Resistant,,6707039-190,6707039,,true,1
+Amikacin,4,Susceptible,,,,,true,2
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Ampicillin,>=32,Resistant,,6707039-190,6707039,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,6707039-190,6707039,,true,1
+Azithromycin,>=8,Resistant,,253772001-193,253772001,1,true,
+Clarithromycin,>=8,Resistant,,253772001-193,253772001,1,true,
+Erythromycin,>=8,Resistant,,253772001-193,253772001,1,true,
+Clindamycin,<=0.25,Susceptible,,253772001-193,253772001,,true,
+Vancomycin,1,Susceptible,,253772001-193,253772001,1,true,
+Doxycycline,1,Susceptible,,253772001-193,253772001,1,true,
+Minocycline,1,Susceptible,,253772001-193,253772001,1,false,
+Tetracycline,1,Susceptible,,253772001-193,253772001,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",253772001-193,253772001,,false,
+Inducible Clindamycin Resistance,POS,,"Presence of Resistance to macrolides, lincosamides, and type B streptogramin",253772001-193,253772001,,false,
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,253772001-193,253772001,1,false,1
+Azithromycin,>=8,Resistant,,240727007-194,240727007,1,true,
+Clarithromycin,>=8,Resistant,,240727007-194,240727007,1,true,
+Erythromycin,>=8,Resistant,,240727007-194,240727007,1,true,
+Clindamycin,>=8,Resistant,,240727007-194,240727007,,true,
+Vancomycin,16,Intermediate,,240727007-194,240727007,1,true,
+Doxycycline,>=16,Resistant,,240727007-194,240727007,1,true,
+Minocycline,1,Susceptible,,,,1,false,
+Tetracycline,>=16,Resistant,,240727007-194,240727007,1,true,2
+Trimethoprim/Sulfamethoxazole,160,Resistant,,240727007-194,240727007,1,false,1
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",240727007-194,240727007,,false,
+Inducible Clindamycin Resistance,NEG,,"Absence of Resistance to macrolides, lincosamides, and type B streptogramin",240727007-194,240727007,,false,
+Minocycline,>=16,Resistant,,240727007-194,240727007,1,false,
+Ciprofloxacin,4,Intermediate,,240727007-194,240727007,4,true,1
+Levofloxacin,4,Intermediate,,240727007-194,240727007,4,true,1
+Moxifloxacin,1,Susceptible,,240727007-194,240727007,4,true,
+Clindamycin,,,,,,,true,
+,,,,,,,,
+Cefazolin,<=4,Susceptible,,250868002-196,250868002,,true,1
+Cefotaxime,<=1,Susceptible,,250868002-196,250868002,,true,1
+Piperacillin/Tazobactam,16,Susceptible,,250868002-196,250868002,,true,1
+Gentamicin,<=1,Susceptible,,250868002-196,250868002,4,true,1
+Ciprofloxacin,>=4,Resistant,,250868002-196,250868002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,250868002-196,250868002,1,false,1
+Ceftriaxone,<=1,Susceptible,,250868002-196,250868002,,true,1
+Ampicillin,>=32,Resistant,,250868002-196,250868002,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,250868002-196,250868002,,true,1
+Cefazolin,<=4,Susceptible,,250868003-197,250868003,,true,1
+Cefotaxime,<=1,Susceptible,,250868003-197,250868003,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,250868003-197,250868003,,true,1
+Gentamicin,<=1,Susceptible,,250868003-197,250868003,4,true,1
+Ciprofloxacin,1,Susceptible,,250868003-197,250868003,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,250868003-197,250868003,1,false,1
+Ceftriaxone,<=1,Susceptible,,250868003-197,250868003,,true,1
+Ampicillin,>=32,Resistant,,250868003-197,250868003,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,250868003-197,250868003,,true,1
+Cefazolin,<=4,Susceptible,,241489002-198,241489002,,true,1
+Cefotaxime,<=1,Susceptible,,241489002-198,241489002,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,241489002-198,241489002,,true,1
+Gentamicin,>=16,Resistant,,241489002-198,241489002,4,true,1
+Ciprofloxacin,>=4,Resistant,,241489002-198,241489002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,241489002-198,241489002,1,false,1
+Ceftriaxone,<=1,Susceptible,,241489002-198,241489002,,true,1
+Ampicillin,<=2,Susceptible,,241489002-198,241489002,,true,1
+Ampicillin/Sulbactam,<=2,Susceptible,,241489002-198,241489002,,true,1
+Cefazolin,32,Intermediate,,232662042-200,232662042,,true,1
+Cefotaxime,<=1,Susceptible,,232662042-200,232662042,,true,1
+Gentamicin,<=1,Susceptible,,232662042-200,232662042,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,232662042-200,232662042,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,232662042-200,232662042,1,false,1
+Ceftriaxone,<=1,Susceptible,,232662042-200,232662042,,true,1
+Amoxicillin/Clavulanic acid,8,Susceptible,,206473014-207,206473014,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,206473014-207,206473014,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,206473014-207,206473014,,true,1
+Cefazolin,<=4,Susceptible,,206473014-207,206473014,,true,1
+Cefotaxime,<=1,Susceptible,,206473014-207,206473014,,true,1
+Gentamicin,<=1,Susceptible,,206473014-207,206473014,4,true,1
+Ciprofloxacin,>=4,Resistant,,206473014-207,206473014,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,206473014-207,206473014,1,false,1
+Ceftriaxone,<=1,Susceptible,,206473014-207,206473014,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,242650008-208,242650008,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,242650008-208,242650008,,true,1
+Piperacillin/Tazobactam,16,Susceptible,,242650008-208,242650008,,true,1
+Cefazolin,>=64,Resistant,,242650008-208,242650008,,true,1
+Cefotaxime,>=64,Resistant,,242650008-208,242650008,,true,1
+Gentamicin,<=1,Susceptible,,242650008-208,242650008,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,242650008-208,242650008,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,242650008-208,242650008,1,false,1
+Ceftriaxone,>=64,Resistant,,242650008-208,242650008,,true,1
+Voriconazole,<=0.12,Susceptible,,190622055-210,190622055,,false,
+Caspofungin,<=0.12,Susceptible,,190622055-210,190622055,,false,
+Flucytosine,<=1,Susceptible,,190622055-210,190622055,,false,
+Micafungin,<=0.06,Susceptible,,190622055-210,190622055,,false,
+Amoxicillin/Clavulanic acid,4,Susceptible,,191076096-211,191076096,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,191076096-211,191076096,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,191076096-211,191076096,,true,1
+Cefazolin,<=4,Susceptible,,191076096-211,191076096,,true,1
+Cefotaxime,<=1,Susceptible,,191076096-211,191076096,,true,1
+Gentamicin,<=1,Susceptible,,191076096-211,191076096,4,true,1
+Ciprofloxacin,0.5,Susceptible,,191076096-211,191076096,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,191076096-211,191076096,1,false,1
+Ceftriaxone,<=1,Susceptible,,191076096-211,191076096,,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,11333001-212,11333001,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,11333001-212,11333001,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,11333001-212,11333001,,true,1
+Cefazolin,<=4,Susceptible,,11333001-212,11333001,,true,1
+Cefotaxime,<=1,Susceptible,,11333001-212,11333001,,true,1
+Gentamicin,<=1,Susceptible,,11333001-212,11333001,4,true,1
+Ciprofloxacin,0.5,Susceptible,,11333001-212,11333001,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,11333001-212,11333001,1,false,1
+Ceftriaxone,<=1,Susceptible,,11333001-212,11333001,,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,244998007-213,244998007,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,244998007-213,244998007,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,244998007-213,244998007,,true,1
+Cefazolin,>=64,Resistant,,244998007-213,244998007,,true,1
+Cefotaxime,>=64,Resistant,,244998007-213,244998007,,true,1
+Gentamicin,<=1,Susceptible,,244998007-213,244998007,4,true,1
+Ciprofloxacin,>=4,Resistant,,244998007-213,244998007,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,244998007-213,244998007,1,false,1
+Ceftriaxone,>=64,Resistant,,244998007-213,244998007,,true,1
+Amikacin,<=2,Susceptible,,244998007-213,244998007,,true,2
+Meropenem,<=0.25,Susceptible,,244998007-213,244998007,,true,2
+Amoxicillin/Clavulanic acid,16,Intermediate,,255178001-214,255178001,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,255178001-214,255178001,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,255178001-214,255178001,,true,1
+Cefazolin,>=64,Resistant,,255178001-214,255178001,,true,1
+Cefotaxime,>=64,Resistant,,255178001-214,255178001,,true,1
+Gentamicin,<=1,Susceptible,,255178001-214,255178001,4,true,1
+Ciprofloxacin,>=4,Resistant,,255178001-214,255178001,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,255178001-214,255178001,1,false,1
+Ceftriaxone,>=64,Resistant,,255178001-214,255178001,,true,1
+Amikacin,<=2,Susceptible,,255178001-214,255178001,,true,2
+Meropenem,<=0.25,Susceptible,,255178001-214,255178001,,true,2
+Voriconazole,<=0.12,Susceptible,,244998008-220,244998008,,false,
+Caspofungin,<=0.12,Susceptible,,244998008-220,244998008,,false,
+Flucytosine,<=1,Susceptible,,244998008-220,244998008,,false,
+Micafungin,<=0.06,Susceptible,,244998008-220,244998008,,false,
+Amoxicillin/Clavulanic acid,8,Susceptible,,225730007-222,225730007,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,225730007-222,225730007,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,225730007-222,225730007,,true,1
+Cefazolin,>=64,Resistant,,225730007-222,225730007,,true,1
+Cefotaxime,8,Resistant,,225730007-222,225730007,,true,1
+Gentamicin,<=1,Susceptible,,225730007-222,225730007,4,true,1
+Ciprofloxacin,>=4,Resistant,,225730007-222,225730007,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,225730007-222,225730007,1,false,1
+Ceftriaxone,16,Resistant,,225730007-222,225730007,,true,1
+Amikacin,4,Susceptible,,225730007-222,225730007,,true,2
+Meropenem,<=0.25,Susceptible,,225730007-222,225730007,,true,2
+Voriconazole,<=0.12,Susceptible,,214290029-225,214290029,,false,
+Caspofungin,<=0.12,Susceptible,,214290029-225,214290029,,false,
+Flucytosine,<=1,Susceptible,,214290029-225,214290029,,false,
+Micafungin,<=0.06,Susceptible,,,,,false,
+Amoxicillin/Clavulanic acid,>=32,Resistant,,245745017-229,245745017,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,245745017-229,245745017,,true,1
+Piperacillin/Tazobactam,64,Intermediate,,245745017-229,245745017,,true,1
+Cefazolin,>=64,Resistant,,245745017-229,245745017,,true,1
+Cefotaxime,>=64,Resistant,,245745017-229,245745017,,true,1
+Gentamicin,>=16,Resistant,,245745017-229,245745017,4,true,1
+Ciprofloxacin,>=4,Resistant,,245745017-229,245745017,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,245745017-229,245745017,1,false,1
+Ceftriaxone,>=64,Resistant,,245745017-229,245745017,,true,1
+Amikacin,<=2,Susceptible,,245745017-229,245745017,,true,2
+Meropenem,<=0.25,Susceptible,,245745017-229,245745017,,true,2
+Voriconazole,<=0.12,Susceptible,,215643005-231,215643005,,false,
+Caspofungin,<=0.12,Susceptible,,215643005-231,215643005,,false,
+Flucytosine,<=1,Susceptible,,215643005-231,215643005,,false,
+Amoxicillin/Clavulanic acid,16,Intermediate,,245214005-234,245214005,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,245214005-234,245214005,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,245214005-234,245214005,,true,1
+Cefazolin,>=64,Resistant,,245214005-234,245214005,,true,1
+Cefotaxime,>=64,Resistant,,245214005-234,245214005,,true,1
+Gentamicin,<=1,Susceptible,,245214005-234,245214005,4,true,1
+Ciprofloxacin,>=4,Resistant,,245214005-234,245214005,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,245214005-234,245214005,1,false,1
+Ceftriaxone,16,Resistant,,245214005-234,245214005,,true,1
+Amikacin,<=2,Susceptible,,245214005-234,245214005,,true,2
+Meropenem,<=0.25,Susceptible,,245214005-234,245214005,,true,2
+Amoxicillin/Clavulanic acid,8,Susceptible,,255336002-238,255336002,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,255336002-238,255336002,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,255336002-238,255336002,,true,1
+Cefazolin,>=64,Resistant,,255336002-238,255336002,,true,1
+Cefotaxime,>=64,Resistant,,255336002-238,255336002,,true,1
+Gentamicin,<=1,Susceptible,,255336002-238,255336002,4,true,1
+Ciprofloxacin,>=4,Resistant,,255336002-238,255336002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,255336002-238,255336002,1,false,1
+Ceftriaxone,>=64,Resistant,,255336002-238,255336002,,true,1
+Amikacin,<=2,Susceptible,,255336002-238,255336002,,true,2
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Ampicillin,>=32,Resistant,,255207002-241,255207002,,true,1
+Amoxicillin/Clavulanic acid,6,Susceptible,,255207002-241,255207002,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,255207002-241,255207002,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,255207002-241,255207002,,true,1
+Cefazolin,>=64,Resistant,,255207002-241,255207002,,true,1
+Cefotaxime,>=64,Resistant,,255207002-241,255207002,,true,1
+Gentamicin,<=1,Susceptible,,255207002-241,255207002,4,true,1
+Ciprofloxacin,>=4,Resistant,,255207002-241,255207002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,255207002-241,255207002,1,false,1
+Ceftriaxone,>=64,Resistant,,255207002-241,255207002,,true,1
+Amikacin,<=2,Susceptible,,255207002-241,255207002,,true,2
+Nitrofurantoin,<=16,Susceptible,,255207002-241,255207002,1,true,1
+Voriconazole,<=0.12,Susceptible,,223439017-243,223439017,,false,
+Caspofungin,<=0.12,Susceptible,,223439017-243,223439017,,false,
+Flucytosine,<=1,Susceptible,,223439017-243,223439017,,false,
+Amoxicillin/Clavulanic acid,8,Susceptible,,236144029-242,236144029,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,236144029-242,236144029,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,236144029-242,236144029,,true,1
+Cefazolin,>=64,Resistant,,236144029-242,236144029,,true,1
+Cefotaxime,>=64,Resistant,,236144029-242,236144029,,true,1
+Gentamicin,>=16,Resistant,,236144029-242,236144029,4,true,1
+Ciprofloxacin,>=4,Resistant,,236144029-242,236144029,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,236144029-242,236144029,1,false,1
+Ceftriaxone,32,Resistant,,236144029-242,236144029,,true,1
+Amikacin,8,Susceptible,,236144029-242,236144029,,true,2
+Meropenem,<=0.25,Susceptible,,236144029-242,236144029,,true,2
+Amoxicillin/Clavulanic acid,8,Susceptible,,255162007-246,255162007,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,255162007-246,255162007,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,255162007-246,255162007,,true,1
+Cefazolin,>=64,Resistant,,255162007-246,255162007,,true,1
+Cefotaxime,>=64,Resistant,,255162007-246,255162007,,true,1
+Gentamicin,>=16,Resistant,,255162007-246,255162007,4,true,1
+Ciprofloxacin,>=4,Resistant,,255162007-246,255162007,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,255162007-246,255162007,1,false,1
+Ceftriaxone,32,Resistant,,255162007-246,255162007,,true,1
+Amikacin,8,Susceptible,,255162007-246,255162007,,true,2
+Meropenem,<=0.25,Susceptible,,255162007-246,255162007,,true,2
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,194395031-247,194395031,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,194395031-247,194395031,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,194395031-247,194395031,,true,1
+Cefazolin,<=4,Susceptible,,194395031-247,194395031,,true,1
+Cefotaxime,<=1,Susceptible,,194395031-247,194395031,,true,1
+Gentamicin,<=1,Susceptible,,194395031-247,194395031,4,true,1
+Ciprofloxacin,2,Intermediate,,194395031-247,194395031,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,194395031-247,194395031,1,false,1
+Ceftriaxone,<=1,Susceptible,,194395031-247,194395031,,true,1
+Oxacillin,>=4,Resistant,,252421005-253,252421005,1,false,
+Azithromycin,>=8,Resistant,,252421005-253,252421005,1,true,
+Clarithromycin,>=8,Resistant,,252421005-253,252421005,1,true,
+Erythromycin,>=8,Resistant,,252421005-253,252421005,1,true,
+Clindamycin,<=0.25,Susceptible,,252421005-253,252421005,,true,
+Vancomycin,1,Susceptible,,252421005-253,252421005,1,true,
+Doxycycline,1,Susceptible,,,,1,true,
+Minocycline,1,Susceptible,,,,1,false,
+Tetracycline,>=16,Resistant,,252421005-253,252421005,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",252421005-253,252421005,,false,
+Inducible Clindamycin Resistance,NEG,,"absence of Resistance to macrolides, lincosamides, and type B streptogramin",252421005-253,252421005,,false,
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,252421005-253,252421005,1,false,1
+Linezolid,2,Susceptible,,252421005-253,252421005,2,true,
+Voriconazole,<=0.12,Susceptible,,202076045-255,202076045,,false,
+Caspofungin,<=0.12,Susceptible,,202076045-255,202076045,,false,
+Flucytosine,<=1,Susceptible,,202076045-255,202076045,,false,
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,3096010-258,3096010,,true,1
+Ampicillin/Sulbactam,<=2,Intermediate,,3096010-258,3096010,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,3096010-258,3096010,,true,1
+Cefazolin,<=4,Susceptible,,3096010-258,3096010,,true,1
+Cefotaxime,<=1,Susceptible,,3096010-258,3096010,,true,1
+Gentamicin,<=1,Susceptible,,3096010-258,3096010,4,true,1
+Ciprofloxacin,>=4,Resistant,,3096010-258,3096010,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,3096010-258,3096010,1,false,1
+Ceftriaxone,<=1,Susceptible,,3096010-258,3096010,,true,1
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,,,,true,1
+Ampicillin/Sulbactam,<=2,Intermediate,,,,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,,,,true,1
+Cefazolin,<=4,Susceptible,,,,,true,1
+Cefotaxime,<=1,Susceptible,,,,,true,1
+Gentamicin,<=1,Susceptible,,,,4,true,1
+Ciprofloxacin,>=4,Resistant,,,,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,,,1,false,1
+Ceftriaxone,<=1,Susceptible,,,,,true,1
+Voriconazole,<=0.12,Susceptible,,251108009-264,251108009,,false,
+Caspofungin,<=0.12,Susceptible,,251108009-264,251108009,,false,
+Flucytosine,<=1,Susceptible,,251108009-264,251108009,,false,
+Voriconazole,<=0.12,Susceptible,,256234001-273,256234001,,false,
+Caspofungin,<=0.12,Susceptible,,256234001-273,256234001,,false,
+Flucytosine,<=1,Susceptible,,256234001-273,256234001,,false,
+Micafungin,<=0.06,Susceptible,,240489005-277,240489005,,false,
+Flucytosine,<=1,Susceptible,,240489005-277,240489005,,false,
+Fluconazole,1,Susceptible,,240489005-277,240489005,,true,
+Voriconazole,4,Resistant,,256310002-278,256310002,,false,
+Caspofungin,<=0.12,Susceptible,,256310002-278,256310002,,false,
+Micafungin,<=0.06,Susceptible,,256310002-278,256310002,,false,
+Flucytosine,<=1,Susceptible,,256310002-278,256310002,,false,
+Voriconazole,1,Susceptible,,256310003-279,256310003,,false,
+Caspofungin,<=0.12,Susceptible,,256310003-279,256310003,,false,
+Micafungin,<=0.06,Susceptible,,256310003-279,256310003,,false,
+Flucytosine,<=1,Susceptible,,256310003-279,256310003,,false,
+Oxacillin,0.5,Susceptible,,216808010-280,216808010,1,false,
+Azithromycin,<=0.25,Susceptible,,216808010-280,216808010,1,true,
+Clarithromycin,<=0.25,Susceptible,,216808010-280,216808010,1,true,
+Erythromycin,<=0.25,Susceptible,,216808010-280,216808010,1,true,
+Clindamycin,<=0.25,Susceptible,,216808010-280,216808010,,true,
+Vancomycin,1,Susceptible,,216808010-280,216808010,1,true,
+Tetracycline,>=1,Susceptible,,216808010-280,216808010,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",216808010-280,216808010,,false,
+Inducible Clindamycin Resistance,NEG,,"absence of Resistance to macrolides, lincosamides, and type B streptogramin",216808010-280,216808010,,false,
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,216808010-280,216808010,1,false,1
+Ciprofloxacin,,,,,,4,true,1
+Linezolid,2,Susceptible,,,,2,true,
+Azithromycin,>=8,Resistant,,255508001-282,255508001,1,true,
+Clarithromycin,>=8,Resistant,,255508001-282,255508001,1,true,
+Erythromycin,>=8,Resistant,,255508001-282,255508001,1,true,
+Clindamycin,<=0.25,Susceptible,,255508001-282,255508001,,true,
+Vancomycin,1,Susceptible,,255508001-282,255508001,1,true,
+Tetracycline,>=16,Resistant,,255508001-282,255508001,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",255508001-282,255508001,,false,
+Inducible Clindamycin Resistance,NEG,,"absence of Resistance to macrolides, lincosamides, and type B streptogramin",255508001-282,255508001,,false,
+Trimethoprim/Sulfamethoxazole,20,Susceptible,,255508001-282,255508001,1,false,1
+Linezolid,1,Susceptible,,255508001-282,255508001,2,true,
+Rifampicin,<=0.5,Susceptible,,255508001-282,255508001,3,true,
+Voriconazole,0.25,Susceptible,,255508001-283,255508001,,false,
+Caspofungin,<=0.12,Susceptible,,255508001-283,255508001,,false,
+Micafungin,<=0.06,Susceptible,,255508001-283,255508001,,false,
+Flucytosine,<=1,Susceptible,,255508001-283,255508001,,false,
+Micafungin,<=0.06,Susceptible,,256399002-284,256399002,,false,
+Flucytosine,<=1,Susceptible,,256399002-284,256399002,,false,
+Fluconazole,1,Susceptible,,256399002-284,256399002,,true,
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,19935005-287,19935005,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,19935005-287,19935005,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,19935005-287,19935005,,true,1
+Cefazolin,<=4,Susceptible,,19935005-287,19935005,,true,1
+Cefotaxime,<=1,Susceptible,,19935005-287,19935005,,true,1
+Gentamicin,<=1,Susceptible,,19935005-287,19935005,4,true,1
+Ciprofloxacin,2,Intermediate,,19935005-287,19935005,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,19935005-287,19935005,1,false,1
+Ceftriaxone,<=1,Susceptible,,19935005-287,19935005,,true,1
+Voriconazole,<=0.12,Susceptible,,256496001-290,256496001,,false,
+Caspofungin,<=0.12,Susceptible,,256496001-290,256496001,,false,
+Flucytosine,<=1,Susceptible,,256496001-290,256496001,,false,
+Vancomycin,1,Susceptible,,256506002-292,256506002,1,true,
+Erythromycin,>=8,Resistant,,256506002-292,256506002,1,true,
+Tigecycline,<=0.12,Susceptible,,256506002-292,256506002,,false,
+Teicoplanin,<=0.5,Susceptible,,256506002-292,256506002,,false,
+Clindamycin,<=0.25,Resistant,,256318004-293,256318004,,true,
+Vancomycin,1,Susceptible,,256318004-293,256318004,1,true,
+Tetracycline,1,Susceptible,,256318004-293,256318004,1,true,2
+Trimethoprim/Sulfamethoxazole,80,Resistant,,256318004-293,256318004,1,false,1
+Linezolid,2,Susceptible,,256318004-293,256318004,2,true,
+Rifampicin,3,Susceptible,,256318004-293,256318004,3,true,
+Cefoxitin Screen,Negative,,absence of methicillin resistance (MRSA like behavior),256318004-293,256318004,,false,
+Inducible Clindamycin Resistance,Positive,,"Resistance to macrolides, lincosamides, and type B streptogramin.",256318004-293,256318004,,false,
+Ciprofloxacin,2,Intermediate,,256318004-293,256318004,4,true,1
+Levofloxacin,2,Susceptible,,256318004-293,256318004,4,true,1
+Voriconazole,<=0.12,Susceptible,,256466002-294,256466002,,false,
+Caspofungin,<=0.12,Susceptible,,256466002-294,256466002,,false,
+Flucytosine,<=1,Susceptible,,256466002-294,256466002,,false,
+Voriconazole,<=0.12,Susceptible,,256576003-302,256576003,,false,
+Caspofungin,<=0.12,Susceptible,,256576003-302,256576003,,false,
+Flucytosine,<=1,Susceptible,,256576003-302,256576003,,false,
+Cefepime,>=64,,,819003-306,819003,,false,2
+Aztreonam,>=64,,,819003-306,819003,,false,4
+Meropenem,>=16,,,819003-306,819003,,true,2
+Amikacin,>=64,,,819003-306,819003,,true,2
+Gentamicin,>=16,,,819003-306,819003,4,true,1
+Ciprofloxacin,>=4,,,819003-306,819003,4,true,1
+Nitrofurantoin,,,,,,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,,,819003-306,819003,1,false,1
+Voriconazole,<=0.12,Susceptible,,256677001-309,256677001,,false,
+Caspofungin,<=0.12,Susceptible,,256677001-309,256677001,,false,
+Flucytosine,<=1,Susceptible,,256677001-309,256677001,,false,
+Vancomycin,1,Susceptible,,256632001-310,256632001,1,true,
+Erythromycin,>=8,Resistant,,256632001-310,256632001,1,true,
+Tigecycline,<=0.12,Susceptible,,256632001-310,256632001,,false,
+Teicoplanin,<=0.5,Susceptible,,256632001-310,256632001,,false,
+Fluconazole,2,Susceptible,,222976045-312,222976045,,true,
+Voriconazole,<=0.12,Susceptible,,222976045-312,222976045,,false,
+Caspofungin,<=0.12,Susceptible,,222976045-312,222976045,,false,
+Flucytosine,<=1,Susceptible,,222976045-312,222976045,,false,
+Azithromycin,>=8,Resistant,,,,1,true,
+Clarithromycin,>=8,Resistant,,202671001-313,202671001,1,true,
+Erythromycin,>=8,Resistant,,202671001-313,202671001,1,true,
+Clindamycin,<=0.25,Susceptible,,202671001-313,202671001,,true,
+Vancomycin,1,Susceptible,,202671001-313,202671001,1,true,
+Doxycycline,1,Susceptible,,202671001-313,202671001,1,true,
+Minocycline,1,Susceptible,,202671001-313,202671001,1,false,
+Tetracycline,1,Susceptible,,202671001-313,202671001,1,true,2
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,202671001-313,202671001,1,false,1
+Linezolid,2,Susceptible,,202671001-313,202671001,2,true,
+Voriconazole,<=0.12,Susceptible,,255906003-320,255906003,,false,
+Caspofungin,<=0.12,Susceptible,,255906003-320,255906003,,false,
+Flucytosine,<=1,Susceptible,,255906003-320,255906003,,false,
+Micafungin,<=0.06,Susceptible,,255906003-320,255906003,,false,
+Cefazolin,>=64,Resistant,,256790002-324,256790002,,true,1
+Cefuroxime,>=64,Resistant,,256790002-324,256790002,,true,2
+Gentamicin,<=1,Susceptible,,256790002-324,256790002,4,true,1
+Amikacin,<=2,Susceptible,,256790002-324,256790002,,true,2
+Nitrofurantoin,64,Intermediate,,256790002-324,256790002,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,256790002-324,256790002,1,false,1
+Piperacillin/Tazobactam,8,Susceptible,,256790002-324,256790002,,true,1
+Cefepime,2,Susceptible,,256790002-324,256790002,,false,2
+Ciprofloxacin,0.5,Susceptible,,256790002-324,256790002,4,true,1
+Vancomycin,1,Susceptible,,244475004-325,244475004,1,true,
+Erythromycin,>=8,Resistant,,244475004-325,244475004,1,true,
+Tigecycline,<=0.12,Susceptible,,244475004-325,244475004,,false,
+Teicoplanin,<=0.5,Susceptible,,244475004-325,244475004,,false,
+Azithromycin,>=8,Resistant,,10001-329,10001,1,true,
+Clarithromycin,>=8,Resistant,,10001-329,10001,1,true,
+Erythromycin,>=8,Resistant,,10001-329,10001,1,true,
+Clindamycin,2,Intermediate,,10001-329,10001,,true,
+Vancomycin,1,Susceptible,,10001-329,10001,1,true,
+Tetracycline,>=16,Resistant,,10001-329,10001,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",10001-329,10001,,false,
+Inducible Clindamycin Resistance,NEG,,"absence of Resistance to macrolides, lincosamides, and type B streptogramin",10001-329,10001,,false,
+Trimethoprim/Sulfamethoxazole,>=10,Susceptible,,10001-329,10001,1,false,1
+Tobramycin,<=1,Susceptible,,,,,true,2
+Linezolid,1,Susceptible,,10001-329,10001,2,true,
+Rifampicin,1,Susceptible,,10001-329,10001,3,true,
+,,,,,,,,
+Clarithromycin,<=0.25,Susceptible,,245906006-331,245906006,1,true,
+Erythromycin,<=0.25,Susceptible,,245906006-331,245906006,1,true,
+Clindamycin,<=0.25,Resistant,,245906006-331,245906006,,true,
+Vancomycin,>=32,Resistant,,245906006-331,245906006,1,true,
+Tetracycline,4,Susceptible,,245906006-331,245906006,1,true,2
+Cefoxitin Screen,POS,,"Presence of methicillin resistance (MRSA like behavior ",245906006-331,245906006,,false,
+Inducible Clindamycin Resistance,POS,,"presence of Resistance to macrolides, lincosamides, and type B streptogramin",245906006-331,245906006,,false,
+Trimethoprim/Sulfamethoxazole,>=10,Susceptible,,245906006-331,245906006,1,false,1
+Linezolid,<=0.5,Susceptible,,245906006-331,245906006,2,true,
+Rifampicin,<=0.5,Susceptible,,,,3,true,
+Oxacillin,>=4,Resistant,,245906006-331,245906006,1,false,
+Amoxicillin/Clavulanic acid,<=2,Susceptible,,256304004-281,256304004,,true,1
+Ampicillin/Sulbactam,<=2,Intermediate,,256304004-281,256304004,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,256304004-281,256304004,,true,1
+Cefazolin,<=4,Susceptible,,256304004-281,256304004,,true,1
+Cefotaxime,<=1,Susceptible,,256304004-281,256304004,,true,1
+Gentamicin,<=1,Susceptible,,256304004-281,256304004,4,true,1
+Ciprofloxacin,>=4,Resistant,,256304004-281,256304004,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,256304004-281,256304004,1,false,1
+Ceftriaxone,<=1,Susceptible,,256304004-281,256304004,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,243003002-337,243003002,,true,1
+Cefazolin,>=64,Resistant,,243003002-337,243003002,,true,1
+Cefotaxime,<=1,Susceptible,,243003002-337,243003002,,true,1
+Gentamicin,<=1,Susceptible,,243003002-337,243003002,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,243003002-337,243003002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,243003002-337,243003002,1,false,1
+Ceftriaxone,<=1,Susceptible,,243003002-337,243003002,,true,1
+Clarithromycin,>=8,Resistant,,242991010-339,242991010,1,true,
+Erythromycin,>=8,Resistant,,242991010-339,242991010,1,true,
+Clindamycin,<=0.25,Susceptible,,242991010-339,242991010,,true,
+Vancomycin,1,Susceptible,,242991010-339,242991010,1,true,
+Doxycycline,1,Susceptible,,242991010-339,242991010,1,true,
+Minocycline,1,Susceptible,,242991010-339,242991010,1,false,
+Tetracycline,1,Susceptible,,242991010-339,242991010,1,true,2
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,242991010-339,242991010,1,false,1
+Linezolid,2,Susceptible,,242991010-339,242991010,2,true,
+Voriconazole,<=0.12,Susceptible,,243989012-341,243989012,,false,
+Caspofungin,<=0.12,Susceptible,,243989012-341,243989012,,false,
+Flucytosine,<=1,Susceptible,,243989012-341,243989012,,false,
+Micafungin,<=0.06,Susceptible,,243989012-341,243989012,,false,
+Micafungin,<=0.06,Susceptible,,251108015-344,251108015,,false,
+Flucytosine,<=1,Susceptible,,251108015-344,251108015,,false,
+Fluconazole,1,Susceptible,,251108015-344,251108015,,true,
+Clarithromycin,>=8,Resistant,,257028001-349,257028001,1,true,
+Erythromycin,>=8,Resistant,,257028001-349,257028001,1,true,
+Clindamycin,<=0.25,Susceptible,,257028001-349,257028001,,true,
+Vancomycin,1,Susceptible,,257028001-349,257028001,1,true,
+Doxycycline,1,Susceptible,,257028001-349,257028001,1,true,
+Minocycline,1,Susceptible,,257028001-349,257028001,1,false,
+Tetracycline,>20,Resistant,,257028001-349,257028001,1,true,2
+Trimethoprim/Sulfamethoxazole,40,Susceptible,,257028001-349,257028001,1,false,1
+Linezolid,2,Susceptible,,257028001-349,257028001,2,true,
+Cefepime,<=1,Susceptible,,230240005-350,230240005,,false,2
+Gentamicin,<=1,Susceptible,,230240005-350,230240005,4,true,1
+Ciprofloxacin,1,Susceptible,,230240005-350,230240005,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,230240005-350,230240005,1,false,1
+Piperacillin/Tazobactam,>=128,Resistant,,230240005-350,230240005,,true,1
+Cefazolin,>=64,Resistant,,230240005-350,230240005,,true,1
+Cefotaxime,<=1,Susceptible,,230240005-350,230240005,,true,1
+Ceftriaxone,16,Intermediate,,230240005-350,230240005,,true,1
+,,,,,,,,
+Amoxicillin/Clavulanic acid,16,Intermediate,,256636002-351,256636002,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,256636002-351,256636002,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,256636002-351,256636002,,true,1
+Cefazolin,<=4,Susceptible,,256636002-351,256636002,,true,1
+Cefotaxime,<=1,Susceptible,,256636002-351,256636002,,true,1
+Gentamicin,>=16,Resistant,,256636002-351,256636002,4,true,1
+Ciprofloxacin,>=4,Resistant,,256636002-351,256636002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,256636002-351,256636002,1,false,1
+Ceftriaxone,<=1,Susceptible,,256636002-351,256636002,,true,1
+Nitrofurantoin,32,Susceptible,,256636002-351,256636002,1,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,,,1,false,1
+Amikacin,4,Susceptible,,,,,true,2
+Amoxicillin/Clavulanic acid,>=32,Resistant,,253993020-352,253993020,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,253993020-352,253993020,,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,253993020-352,253993020,,true,1
+Cefazolin,>=64,Resistant,,253993020-352,253993020,,true,1
+Cefotaxime,>=64,Resistant,,253993020-352,253993020,,true,1
+Gentamicin,>=16,Resistant,,253993020-352,253993020,4,true,1
+Ciprofloxacin,>=4,Resistant,,253993020-352,253993020,4,true,1
+Trimethoprim/Sulfamethoxazole,160,Resistant,,253993020-352,253993020,1,false,1
+Ceftriaxone,<=1,Resistant,,253993020-352,253993020,,true,1
+Nitrofurantoin,>=512,Resistant,,253993020-352,253993020,1,true,1
+Aztreonam,16,Intermediate,,253993020-352,253993020,,false,4
+Amikacin,8,Susceptible,,253993020-352,253993020,,true,2
+Amoxicillin/Clavulanic acid,4,Susceptible,,180149122-357,180149122,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,180149122-357,180149122,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,180149122-357,180149122,,true,1
+Cefazolin,>=64,Resistant,,180149122-357,180149122,,true,1
+Cefotaxime,>=64,Resistant,,180149122-357,180149122,,true,1
+Gentamicin,<=1,Susceptible,,180149122-357,180149122,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,180149122-357,180149122,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,180149122-357,180149122,1,false,1
+Ceftriaxone,8,Resistant,,180149122-357,180149122,,true,1
+Nitrofurantoin,<=16,Susceptible,,180149122-357,180149122,1,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,191384010-358,191384010,,true,1
+Ampicillin/Sulbactam,16,Intermediate,,191384010-358,191384010,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,191384010-358,191384010,,true,1
+Cefazolin,>=64,Resistant,,191384010-358,191384010,,true,1
+Cefotaxime,>=64,Resistant,,191384010-358,191384010,,true,1
+Gentamicin,>=16,Resistant,,191384010-358,191384010,4,true,1
+Ciprofloxacin,0.5,Susceptible,,191384010-358,191384010,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,191384010-358,191384010,1,false,1
+Ceftriaxone,32,Resistant,,191384010-358,191384010,,true,1
+Amikacin,<=2,Susceptible,,191384010-358,191384010,,true,2
+Meropenem,<=0.25,Susceptible,,191384010-358,191384010,,true,2
+Nitrofurantoin,<=16,Susceptible,,,,1,true,1
+Piperacillin/Tazobactam,>=128,Resistant,,250760003-359,250760003,,true,1
+Cefazolin,>=64,Resistant,,250760003-359,250760003,,true,1
+Cefotaxime,16,Intermediate,,250760003-359,250760003,,true,1
+Gentamicin,<=1,Susceptible,,250760003-359,250760003,4,true,1
+Ciprofloxacin,0.5,Susceptible,,250760003-359,250760003,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,250760003-359,250760003,1,false,1
+Ceftriaxone,>=64,Resistant,,250760003-359,250760003,,true,1
+Amikacin,8,Susceptible,,250760003-359,250760003,,true,2
+Meropenem,>=16,Resistant,,250760003-359,250760003,,true,2
+Cefepime,<=1,Susceptible,,250760003-359,250760003,,false,2
+Amoxicillin/Clavulanic acid,16,Intermediate,,260022002-361,260022002,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,260022002-361,260022002,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,260022002-361,260022002,,true,1
+Cefazolin,<=4,Susceptible,,260022002-361,260022002,,true,1
+Cefotaxime,<=1,Susceptible,,260022002-361,260022002,,true,1
+Gentamicin,>=16,Resistant,,260022002-361,260022002,4,true,1
+Ciprofloxacin,>=4,Resistant,,260022002-361,260022002,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,260022002-361,260022002,1,false,1
+Ceftriaxone,<=1,Susceptible,,260022002-361,260022002,,true,1
+Nitrofurantoin,32,Susceptible,,260022002-361,260022002,1,true,1
+Micafungin,<=0.06,Susceptible,,202671010-362,202671010,,false,
+Flucytosine,<=1,Susceptible,,202671010-362,202671010,,false,
+Fluconazole,1,Susceptible,,202671010-362,202671010,,true,
+Clarithromycin,>=8,Resistant,,202671011-363,202671011,1,true,
+Erythromycin,>=8,Resistant,,202671011-363,202671011,1,true,
+Clindamycin,>=8,Resistant,,202671011-363,202671011,,true,
+Vancomycin,8,Resistant,,202671011-363,202671011,1,true,
+Doxycycline,1,Susceptible,,,,1,true,
+Minocycline,1,Susceptible,,,,1,false,
+Tetracycline,>=16,Resistant,,202671011-363,202671011,1,true,2
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,202671011-363,202671011,1,false,1
+Linezolid,>=8,Resistant,,202671011-363,202671011,2,true,
+Levofloxacin,0.5,Susceptible,,202671011-363,202671011,4,true,1
+Amoxicillin/Clavulanic acid,4,Susceptible,,202671011-364,202671011,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,202671011-364,202671011,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,202671011-364,202671011,,true,1
+Cefazolin,<=4,Susceptible,,202671011-364,202671011,,true,1
+Cefotaxime,<=1,Susceptible,,202671011-364,202671011,,true,1
+Gentamicin,<=1,Susceptible,,202671011-364,202671011,4,true,1
+Ciprofloxacin,>=4,Susceptible,,202671011-364,202671011,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,202671011-364,202671011,1,false,1
+Ceftriaxone,<=1,Susceptible,,202671011-364,202671011,,true,1
+Nitrofurantoin,32,Susceptible,,202671011-364,202671011,1,true,1
+Meropenem,<=0.25,Susceptible,,,,,true,2
+Amoxicillin/Clavulanic acid,>=32,Resistant,,260038001-365,260038001,,true,1
+Ampicillin/Sulbactam,4,Susceptible,,,,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,260038001-365,260038001,,true,1
+Cefazolin,>=64,Resistant,,260038001-365,260038001,,true,1
+Cefotaxime,<=1,Susceptible,,260038001-365,260038001,,true,1
+Gentamicin,<=1,Susceptible,,260038001-365,260038001,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,260038001-365,260038001,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,260038001-365,260038001,1,false,1
+Ceftriaxone,<=1,Susceptible,,260038001-365,260038001,,true,1
+Nitrofurantoin,32,Susceptible,,260038001-365,260038001,1,true,1
+Amoxicillin/Clavulanic acid,16,Intermediate,,1187019-371,1187019,,true,1
+Ampicillin/Sulbactam,>=32,Resistant,,1187019-371,1187019,,true,1
+Piperacillin/Tazobactam,8,Susceptible,,1187019-371,1187019,,true,1
+Cefazolin,<=4,Susceptible,,1187019-371,1187019,,true,1
+Cefotaxime,<=1,Susceptible,,1187019-371,1187019,,true,1
+Gentamicin,>=16,Resistant,,1187019-371,1187019,4,true,1
+Ciprofloxacin,>=4,Resistant,,1187019-371,1187019,4,true,1
+Trimethoprim/Sulfamethoxazole,>=320,Resistant,,1187019-371,1187019,1,false,1
+Ceftriaxone,<=1,Susceptible,,1187019-371,1187019,,true,1
+Nitrofurantoin,32,Susceptible,,1187019-371,1187019,1,true,1
+Voriconazole,<=0.12,Susceptible,,230381004-372,230381004,,false,
+Caspofungin,<=0.12,Susceptible,,230381004-372,230381004,,false,
+Flucytosine,<=1,Susceptible,,230381004-372,230381004,,false,
+Piperacillin/Tazobactam,<=4,Susceptible,,253735006-374,253735006,,true,1
+Cefazolin,>=64,Resistant,,253735006-374,253735006,,true,1
+Cefotaxime,<=1,Susceptible,,253735006-374,253735006,,true,1
+Gentamicin,<=1,Susceptible,,253735006-374,253735006,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,253735006-374,253735006,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,253735006-374,253735006,1,false,1
+Ceftriaxone,<=1,Susceptible,,253735006-374,253735006,,true,1
+Nitrofurantoin,32,Susceptible,,253735006-374,253735006,1,true,1
+Amoxicillin/Clavulanic acid,>=32,Resistant,,260342003-377,260342003,,true,1
+Ampicillin/Sulbactam,8,Susceptible,,260342003-377,260342003,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,260342003-377,260342003,,true,1
+Cefazolin,>=64,Resistant,,260342003-377,260342003,,true,1
+Cefotaxime,<=1,Susceptible,,260342003-377,260342003,,true,1
+Gentamicin,<=1,Susceptible,,260342003-377,260342003,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,260342003-377,260342003,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Resistant,,260342003-377,260342003,1,false,1
+Ceftriaxone,<=1,Susceptible,,260342003-377,260342003,,true,1
+Nitrofurantoin,32,Susceptible,,,,1,true,1
+Cefazolin,8,Resistant,,210901010-381,210901010,,true,1
+Cefotaxime,<=1,Susceptible,,210901010-381,210901010,,true,1
+Gentamicin,<=1,Susceptible,,210901010-381,210901010,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,210901010-381,210901010,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Susceptible,,,,1,false,1
+Ceftriaxone,>=64,Resistant,,,,,true,1
+Amikacin,<=2,Susceptible,,210901010-381,210901010,,true,2
+Meropenem,1,Susceptible,,210901010-381,210901010,,true,2
+Cefepime,<=1,Susceptible,,210901010-381,210901010,,false,2
+Voriconazole,<=0.12,Susceptible,,242756013-397,242756013,,false,
+Caspofungin,<=0.12,Susceptible,,242756013-397,242756013,,false,
+Micafungin,<=0.06,Susceptible,,242756013-397,242756013,,false,
+Flucytosine,<=1,Susceptible,,242756013-397,242756013,,false,
+Amoxicillin/Clavulanic acid,>=32,Resistant,,12594005-398,12594005,,true,1
+Ampicillin/Sulbactam,8,Susceptible,,12594005-398,12594005,,true,1
+Piperacillin/Tazobactam,<=4,Susceptible,,12594005-398,12594005,,true,1
+Cefazolin,>=64,Resistant,,12594005-398,12594005,,true,1
+Cefotaxime,<=1,Susceptible,,12594005-398,12594005,,true,1
+Gentamicin,<=1,Susceptible,,12594005-398,12594005,4,true,1
+Ciprofloxacin,<=0.25,Susceptible,,12594005-398,12594005,4,true,1
+Trimethoprim/Sulfamethoxazole,<=20,Resistant,,12594005-398,12594005,1,false,1
+Ceftriaxone,<=1,Susceptible,,12594005-398,12594005,,true,1
+Voriconazole,<=0.12,Susceptible,,224975030-400,224975030,,false,
+Caspofungin,<=0.12,Susceptible,,224975030-400,224975030,,false,
+Micafungin,<=0.06,Susceptible,,224975030-400,224975030,,false,
+Flucytosine,<=1,Susceptible,,224975030-400,224975030,,false,

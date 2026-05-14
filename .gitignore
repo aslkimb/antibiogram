@@ -1,7 +1,7 @@
 
-# Data (contains PII/PHII)
-Data/
-*.csv
+# Data (included per user request)
+# Data/
+# *.csv
 
 # Generated Reports
 # Reports allowed by user request
